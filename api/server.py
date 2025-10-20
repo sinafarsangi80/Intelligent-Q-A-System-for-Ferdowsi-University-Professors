@@ -83,7 +83,7 @@ class Hit(BaseModel):
     pub_id: Optional[str] = None
     dense_rank: Optional[int] = None
     lex_rank: Optional[int] = None
-    text: Optional[str] = None  # <-- NEW: carry snippet text
+    text: Optional[str] = None  
 
 class RagResponse(BaseModel):
     ok: bool
@@ -127,7 +127,7 @@ def _row(doc_id, score, md):
         parent_id=md.get("parent_id"),
         prof_id=md.get("prof_id"),
         pub_id=md.get("pub_id"),
-        text=md.get("text") or md.get("chunk") or md.get("content")  # <-- NEW
+        text=md.get("text") or md.get("chunk") or md.get("content")  
     )
 
 def _fused_row(doc_id, fscore, md, ranks):
@@ -143,10 +143,10 @@ def _fused_row(doc_id, fscore, md, ranks):
         parent_id=md.get("parent_id"),
         prof_id=md.get("prof_id"),
         pub_id=md.get("pub_id"),
-        text=md.get("text") or md.get("chunk") or md.get("content")  # <-- NEW
+        text=md.get("text") or md.get("chunk") or md.get("content")  
     )
 
-# ---------- SSE helpers (NEW) ----------
+# ---------- SSE helpers ----------
 def _sse_pack(obj: Dict[str, Any]) -> str:
     # ensure_ascii=False to keep Persian chars intact
     return f"data: {json.dumps(obj, ensure_ascii=False)}\n\n"
@@ -203,7 +203,7 @@ def _startup():
 
     for rec in A.iter_jsonl_or_array(DATA_PATH):
         idx.add(rec)
-        # --- NEW: capture display + normalized variants for fuzzy/partial resolution
+        # capture display + normalized variants for fuzzy/partial resolution
         disp = _extract_display_name(rec)
         if disp:
             nd = _norm(disp)
@@ -212,7 +212,7 @@ def _startup():
 
     A_INDEX = idx
 
-    # (unchanged) Track B loaders...
+    # Track B loaders...
     vs, _ = B.load_dense(ARTIFACTS_DIR, DEVICE)
     DENSE_VS = vs
 
@@ -398,10 +398,10 @@ def chat(req: ChatRequest):
         k_dense=req.k_dense,
         k_lex=req.k_lex,
         k_rrf=req.k_rrf,
-        fused_threshold=req.fused_threshold,   # NEW
+        fused_threshold=req.fused_threshold,  
     ))
 
-    fused_hits = rag_res.fused_top  # NEW: already thresholded; don't slice by k
+    fused_hits = rag_res.fused_top  
 
     # If nothing passes the threshold, short-circuit
     if not fused_hits:
@@ -434,7 +434,7 @@ def chat(req: ChatRequest):
         sources=fused_hits,  # FULL filtered list
     )
 
-# ---------- Endpoint Chat (streaming SSE) (NEW) ----------
+# ---------- Endpoint Chat (streaming SSE) ----------
 @app.options("/chat/stream")
 def chat_stream_options():
     # CORS middleware will add the Access-Control-* headers
@@ -514,9 +514,9 @@ def chat_stream(req: ChatRequest):
             k_dense=req.k_dense,
             k_lex=req.k_lex,
             k_rrf=req.k_rrf,
-            fused_threshold=req.fused_threshold,  # NEW
+            fused_threshold=req.fused_threshold,  
         ))
-        fused_hits = rag_res.fused_top  # already thresholded
+        fused_hits = rag_res.fused_top  
 
         yield _sse_pack({"type": "route", "route": "B"})
         yield _sse_pack({"type": "sources", "sources": [h.dict() for h in fused_hits]})
