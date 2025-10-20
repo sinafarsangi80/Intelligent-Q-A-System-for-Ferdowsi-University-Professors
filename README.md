@@ -85,7 +85,7 @@ NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
 
 ---
 
-## 🧩 Code Modules Overview
+## 🧩 block Modules Overview
 
 ### **block2_normalize.py — Persian Text Normalization**
 
@@ -163,6 +163,35 @@ Implements the hybrid retrieval mechanism combining:
 Applies thresholding and re-ranking to produce the most relevant sources for the LLM.
 
 🧠 *Goal: deliver the best of both semantic and keyword-based search for robust RAG results.*
+
+## 🧩 api Modules Overview
+
+### **llm_clients.py — LLM Integration Layer**
+
+Manages all communication between the backend and large language models (LLMs).
+Handles both **non-streaming** and **streaming** interactions with the local model served via **Ollama** (e.g., DeepSeek-R1).
+Functions:
+
+* Send queries and retrieve model responses using HTTP calls.
+* Support streaming tokens for real-time updates in the chat UI.
+* Provide parameter control (temperature, top-p, repetition penalty, etc.).
+
+🧠 *Goal: abstract model interactions into a simple, reusable client interface.*
+
+---
+
+### **server.py — FastAPI Backend and RAG Orchestrator**
+
+Implements the main backend logic and exposes API endpoints for chat, deterministic, and hybrid RAG modes.
+Responsibilities:
+
+* Load normalized data, FAISS index, and lexical retrievers (TF-IDF/BM25).
+* Route user queries via the **router module** to Track A (deterministic) or Track B (hybrid).
+* Fuse retrieval results and pass context to the LLM for answer generation.
+* Stream responses to the frontend using **Server-Sent Events (SSE)**.
+
+🧠 *Goal: coordinate all pipeline components — data, retrieval, and generation — to deliver real-time answers through a simple API.*
+
 
 
 ## 🧠 Example Queries
