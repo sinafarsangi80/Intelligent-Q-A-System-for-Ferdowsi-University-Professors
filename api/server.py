@@ -28,16 +28,6 @@ DEVICE        = os.getenv("RAG_DEVICE", "cpu")                           # "cpu"
 # ---------- App ----------
 app = FastAPI(title="Sina RAG — Block 12 API", version="0.4.0")
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=False,   # must be False when origins="*"
-    allow_methods=["*"],
-    allow_headers=["*"],
-    expose_headers=["*"],
-    max_age=86400,
-)
-
 # ---------- Globals (loaded on startup) ----------
 A_INDEX: Optional[A.ProfIndex] = None
 DENSE_VS = None
