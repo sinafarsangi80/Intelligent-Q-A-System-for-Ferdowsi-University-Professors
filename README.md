@@ -85,6 +85,86 @@ NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
 
 ---
 
+## 🧩 Code Modules Overview
+
+### **block2_normalize.py — Persian Text Normalization**
+
+Cleans and standardizes all extracted Persian text to ensure consistent indexing and search quality.
+Includes:
+
+* Converting Arabic to Persian letters
+* Removing diacritics, elongations, and invisible characters
+* Managing `ZWNJ` and spaces
+* Converting Persian/Arabic digits to Latin digits
+* Protecting and restoring URLs and email addresses
+
+🧠 *Goal: make all text machine-readable and uniform for vectorization.*
+
+---
+
+### **block3_lookup.py — Deterministic Name-Based Lookup**
+
+Handles exact, rule-based retrieval of professor information.
+When a user query clearly mentions a professor’s name (e.g. *“email of Dr. Naderi”*), this block returns:
+
+* Verified metadata (email, homepage, department, etc.)
+* The professor’s full list of publications
+
+🧠 *Goal: fast and reliable name-based responses without using the RAG pipeline.*
+
+---
+
+### **block4_router.py — Query Routing Logic**
+
+Analyzes the incoming query to determine its intent and routes it to the appropriate processing path:
+
+* **Track A (deterministic):** Name-based or fact lookup
+* **Track B (hybrid):** Semantic or topic-based question
+
+🧠 *Goal: decide whether to run a direct lookup or trigger the RAG retrieval pipeline.*
+
+---
+
+### **block5_build_corpus.py — Corpus Construction**
+
+Builds the core text corpus from normalized JSON data of professors and publications.
+Creates:
+
+* Stable identifiers (`prof_id`, `pub_id`)
+* Document records (`publication` / `chunk`)
+* Optional text chunking with overlap for long entries
+* Statistics file for text length and coverage
+
+🧠 *Goal: prepare a clean, structured corpus ready for embedding and FAISS indexing.*
+
+---
+
+### **block7_smoke_test.py — System Sanity Check**
+
+Performs quick functional tests to ensure that all modules, indexes, and data artifacts are working correctly.
+Checks:
+
+* Corpus readability and key presence
+* FAISS index loading and vector dimension match
+* Sample query retrieval and LLM connection
+
+🧠 *Goal: verify the integrity of the entire pipeline before deployment.*
+
+---
+
+### **block8_hybrid.py — Hybrid Retrieval and Rank Fusion**
+
+Implements the hybrid retrieval mechanism combining:
+
+* Dense retrieval (FAISS + LaBSE)
+* Lexical retrieval (TF-IDF / BM25)
+* Rank fusion using **Reciprocal Rank Fusion (RRF)**
+
+Applies thresholding and re-ranking to produce the most relevant sources for the LLM.
+
+🧠 *Goal: deliver the best of both semantic and keyword-based search for robust RAG results.*
+
+
 ## 🧠 Example Queries
 
 | Input (Persian)            | Output                                            |
