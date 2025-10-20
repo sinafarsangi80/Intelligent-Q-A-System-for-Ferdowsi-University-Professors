@@ -389,24 +389,6 @@ def main():
 
     print(f"✅ Hybrid report written to {out_path}")
 
-
-if __name__ == "__main__":
-    try:
-        sys.stdout.reconfigure(encoding="utf-8")
-    except Exception:
-        pass
-    main()
-
-
-
-if __name__ == "__main__":
-    try:
-        sys.stdout.reconfigure(encoding="utf-8")
-    except Exception:
-        pass
-    main()
-
-
 # -----------------------------
 # RRF fusion
 # -----------------------------
