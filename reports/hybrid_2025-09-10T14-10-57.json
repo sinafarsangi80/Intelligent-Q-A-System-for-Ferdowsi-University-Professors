@@ -1,0 +1,1155 @@
+{
+  "timestamp": "2025-09-10T14:10:57.351760Z",
+  "artifacts_dir": "/home/sina-farsangi/Desktop/sina/RAG_Bcs_prj/artifacts",
+  "corpus": "/home/sina-farsangi/Desktop/sina/RAG_Bcs_prj/corpus/corpus.jsonl",
+  "index": {
+    "ntotal": 109583,
+    "dim": 768,
+    "load_ms": 9266.38
+  },
+  "lexical_mode": "bm25",
+  "rrf_k": 60,
+  "k_fused": 5,
+  "k_dense": 50,
+  "k_lex": 100,
+  "meta": {
+    "model": "sentence-transformers/LaBSE",
+    "dim": 768,
+    "count": 109583,
+    "metric": "cosine (IP on L2-normalized vectors)",
+    "created_at": "2025-09-10T11:42:00.009803Z",
+    "device": "cuda",
+    "python": "3.12.11",
+    "platform": "Linux-6.1.123+-x86_64-with-glibc2.35",
+    "langchain_version": "0.3.27",
+    "sentence_transformers_version": "5.1.0",
+    "paths": {
+      "root": "/content/drive/MyDrive/new_RAG/artifacts",
+      "index_faiss": "/content/drive/MyDrive/new_RAG/artifacts/index.faiss",
+      "docstore": "/content/drive/MyDrive/new_RAG/artifacts/index.pkl",
+      "meta": "/content/drive/MyDrive/new_RAG/artifacts/index_meta.json"
+    },
+    "corpus": {
+      "path": "/content/drive/MyDrive/new_RAG/corpus.jsonl",
+      "sha1": "09266b717bd783b55902ade239fae1cbc92a2357"
+    }
+  },
+  "queries": [
+    {
+      "query": "تحلیل تیر تیموشنکو",
+      "dense_ms": 57.33,
+      "lex_ms": 578.16,
+      "dense_top": [
+        {
+          "id": "prof_0c276b2fd039__pub_4b13a075f1c6",
+          "score": 1.3851758241653442,
+          "doc_type": "publication",
+          "title": "تحلیل ارتعاشات تیر تیموشنکو دارای ترک باز لبه ای",
+          "venue": "پانزدهمین کنفرانس بین المللی سالیانه مهندسی مکانیک",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-102062.html",
+          "parent_id": null,
+          "prof_id": "0c276b2fd039",
+          "pub_id": "4b13a075f1c6"
+        },
+        {
+          "id": "prof_c5dce1fac681__pub_b524e7e9c5f0",
+          "score": 1.433182716369629,
+          "doc_type": "publication",
+          "title": "Transient analysis of functionally graded THICK HOLLOW Circular cylinders under",
+          "venue": "Asian Pacific Conference for Materials and Mechanics 2009",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1012616.html",
+          "parent_id": null,
+          "prof_id": "c5dce1fac681",
+          "pub_id": "b524e7e9c5f0"
+        },
+        {
+          "id": "prof_a0b0805ec84c__pub_086ea0a21ac6",
+          "score": 1.4968757629394531,
+          "doc_type": "publication",
+          "title": "مقایسه عملکرد چند نمونه پرتابه تفنگ بادی به همراه اصلاح شکل دماغه",
+          "venue": "مهندسی مکانیک مدرس",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1069027.html",
+          "parent_id": null,
+          "prof_id": "a0b0805ec84c",
+          "pub_id": "086ea0a21ac6"
+        },
+        {
+          "id": "prof_f2a29c09411b__pub_086ea0a21ac6",
+          "score": 1.5115361213684082,
+          "doc_type": "publication",
+          "title": "مقایسه عملکرد چند نمونه پرتابه تفنگ بادی به همراه اصلاح شکل دماغه",
+          "venue": "مهندسی مکانیک مدرس",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1069027.html",
+          "parent_id": null,
+          "prof_id": "f2a29c09411b",
+          "pub_id": "086ea0a21ac6"
+        },
+        {
+          "id": "prof_a0b0805ec84c__pub_dd1e047dc911",
+          "score": 1.5190072059631348,
+          "doc_type": "publication",
+          "title": "تحلیل جریان چگالشی بخار و بررسی تأثیر میزان ماخ درگلوگاه برشعاع قطرات خروجی در شیپوره مادون صوت",
+          "venue": "مهندسی مکانیک",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1032162.html",
+          "parent_id": null,
+          "prof_id": "a0b0805ec84c",
+          "pub_id": "dd1e047dc911"
+        }
+      ],
+      "lex_top": [
+        {
+          "id": "prof_c3f88534d67a__pub_e7fe675b6db9",
+          "score": 0.5,
+          "doc_type": "publication",
+          "title": "تأثیر افزایش غلظت دی اکسید کربن بر محتوای آب نسبی، نشت الکترولیت ها و رنگدانه های کلروفیلی گل تکمه ای تحت تنش شوری",
+          "venue": "هفدهمین کنفرانس سراسری و پنجمین کنفرانس بین المللی زیست شناسی ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1037835.html",
+          "parent_id": null,
+          "prof_id": "c3f88534d67a",
+          "pub_id": "e7fe675b6db9"
+        },
+        {
+          "id": "prof_cd8d957d901d__pub_c2823a324189",
+          "score": 0.3333333333333333,
+          "doc_type": "publication",
+          "title": "تحلیل خمش و ارتعاشات وابسته به اندازه در نانو صفحه میندلین مستطیلی با استفاده از تئوری تنش کوپل اصلاح شده و روش حل ناویر",
+          "venue": "کنفرانس بین المللی آکوستیک و ارتعاشاتر",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1084483.html",
+          "parent_id": null,
+          "prof_id": "cd8d957d901d",
+          "pub_id": "c2823a324189"
+        },
+        {
+          "id": "prof_0259b7d3d6e4__pub_141556a48041",
+          "score": 0.25,
+          "doc_type": "publication",
+          "title": "تأثیر کیفیت آب در مخزن سمپاش بر کارایی علف کش های گلیفوسیت و نیکوسولفورون",
+          "venue": "اولین کنگره بین المللی و سیزدهمین کنگره ملی علوم زراعت و اصلاح نباتات و سیزدهمین همایش علوم و تکنولوژی بذر",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1043025.html",
+          "parent_id": null,
+          "prof_id": "0259b7d3d6e4",
+          "pub_id": "141556a48041"
+        },
+        {
+          "id": "prof_ffa22c72279e__pub_141556a48041",
+          "score": 0.2,
+          "doc_type": "publication",
+          "title": "تأثیر کیفیت آب در مخزن سمپاش بر کارایی علف کش های گلیفوسیت و نیکوسولفورون",
+          "venue": "اولین کنگره بین المللی و سیزدهمین کنگره ملی علوم زراعت و اصلاح نباتات و سیزدهمین همایش علوم و تکنولوژی بذر",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1043025.html",
+          "parent_id": null,
+          "prof_id": "ffa22c72279e",
+          "pub_id": "141556a48041"
+        },
+        {
+          "id": "prof_982eb4831c27__pub_e7fe675b6db9",
+          "score": 0.16666666666666666,
+          "doc_type": "publication",
+          "title": "تأثیر افزایش غلظت دی اکسید کربن بر محتوای آب نسبی، نشت الکترولیت ها و رنگدانه های کلروفیلی گل تکمه ای تحت تنش شوری",
+          "venue": "هفدهمین کنفرانس سراسری و پنجمین کنفرانس بین المللی زیست شناسی ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1037835.html",
+          "parent_id": null,
+          "prof_id": "982eb4831c27",
+          "pub_id": "e7fe675b6db9"
+        }
+      ],
+      "fused_top": [
+        {
+          "id": "prof_c5dce1fac681__pub_90721de2c292",
+          "fused_score": 0.020695970695970695,
+          "dense_rank": 10,
+          "lex_rank": 96,
+          "doc_type": "publication",
+          "title": "تحلیل میرایی ترموالاستیک در میکروتیر تشدیدگر بر اساس تئوری لرد-شولمن به روش تحلیلی",
+          "venue": "اولین کنفرانس بین المللی ریزفناوری و میکروماشیناری",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1040554.html",
+          "parent_id": null,
+          "prof_id": "c5dce1fac681",
+          "pub_id": "90721de2c292"
+        },
+        {
+          "id": "prof_02425e5e72dc__pub_90721de2c292",
+          "fused_score": 0.020113199919142913,
+          "dense_rank": 37,
+          "lex_rank": 42,
+          "doc_type": "publication",
+          "title": "تحلیل میرایی ترموالاستیک در میکروتیر تشدیدگر بر اساس تئوری لرد-شولمن به روش تحلیلی",
+          "venue": "اولین کنفرانس بین المللی ریزفناوری و میکروماشیناری",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1040554.html",
+          "parent_id": null,
+          "prof_id": "02425e5e72dc",
+          "pub_id": "90721de2c292"
+        },
+        {
+          "id": "prof_0c276b2fd039__pub_4b13a075f1c6",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": 1,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "تحلیل ارتعاشات تیر تیموشنکو دارای ترک باز لبه ای",
+          "venue": "پانزدهمین کنفرانس بین المللی سالیانه مهندسی مکانیک",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-102062.html",
+          "parent_id": null,
+          "prof_id": "0c276b2fd039",
+          "pub_id": "4b13a075f1c6"
+        },
+        {
+          "id": "prof_c3f88534d67a__pub_e7fe675b6db9",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": null,
+          "lex_rank": 1,
+          "doc_type": "publication",
+          "title": "تأثیر افزایش غلظت دی اکسید کربن بر محتوای آب نسبی، نشت الکترولیت ها و رنگدانه های کلروفیلی گل تکمه ای تحت تنش شوری",
+          "venue": "هفدهمین کنفرانس سراسری و پنجمین کنفرانس بین المللی زیست شناسی ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1037835.html",
+          "parent_id": null,
+          "prof_id": "c3f88534d67a",
+          "pub_id": "e7fe675b6db9"
+        },
+        {
+          "id": "prof_c5dce1fac681__pub_b524e7e9c5f0",
+          "fused_score": 0.016129033258064456,
+          "dense_rank": 2,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "Transient analysis of functionally graded THICK HOLLOW Circular cylinders under",
+          "venue": "Asian Pacific Conference for Materials and Mechanics 2009",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1012616.html",
+          "parent_id": null,
+          "prof_id": "c5dce1fac681",
+          "pub_id": "b524e7e9c5f0"
+        }
+      ]
+    },
+    {
+      "query": "گرادیان الاستیسیته",
+      "dense_ms": 57.93,
+      "lex_ms": 591.79,
+      "dense_top": [
+        {
+          "id": "prof_d857496528d9__pub_d9a8064af129",
+          "score": 1.4350097179412842,
+          "doc_type": "publication",
+          "title": "تضعیف نوفه زمین غلت در حوزه زمان- فرکانس",
+          "venue": "هجدهمین کنفرانس ژئوفیزیک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1068717.html",
+          "parent_id": null,
+          "prof_id": "d857496528d9",
+          "pub_id": "d9a8064af129"
+        },
+        {
+          "id": "prof_87e267308c38__pub_6bcabe0bd6b6",
+          "score": 1.4382768869400024,
+          "doc_type": "publication",
+          "title": "آزمون استقلال سری زمانی مبتنی بر معیار واگرایی توان",
+          "venue": "Journal of Statistical Sciences",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1071419.html",
+          "parent_id": null,
+          "prof_id": "87e267308c38",
+          "pub_id": "6bcabe0bd6b6"
+        },
+        {
+          "id": "prof_6f5934d02caf__pub_d9a8064af129",
+          "score": 1.4436850547790527,
+          "doc_type": "publication",
+          "title": "تضعیف نوفه زمین غلت در حوزه زمان- فرکانس",
+          "venue": "هجدهمین کنفرانس ژئوفیزیک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1068717.html",
+          "parent_id": null,
+          "prof_id": "6f5934d02caf",
+          "pub_id": "d9a8064af129"
+        },
+        {
+          "id": "prof_b6dffc550f3a__pub_e8a2d66f4808",
+          "score": 1.4528911113739014,
+          "doc_type": "publication",
+          "title": "Axisymmetric Radial Stagnation-Point Flow of a Viscous Fluid on a Rotating Cylinder with Time-Depend",
+          "venue": "Archivos de zootecnia",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-202176.html",
+          "parent_id": null,
+          "prof_id": "b6dffc550f3a",
+          "pub_id": "e8a2d66f4808"
+        },
+        {
+          "id": "prof_f8251542a9e7__pub_d9a8064af129",
+          "score": 1.458852767944336,
+          "doc_type": "publication",
+          "title": "تضعیف نوفه زمین غلت در حوزه زمان- فرکانس",
+          "venue": "هجدهمین کنفرانس ژئوفیزیک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1068717.html",
+          "parent_id": null,
+          "prof_id": "f8251542a9e7",
+          "pub_id": "d9a8064af129"
+        }
+      ],
+      "lex_top": [
+        {
+          "id": "prof_18b6edf0a20b__pub_b97f30245786",
+          "score": 0.5,
+          "doc_type": "publication",
+          "title": "تحلیل سطح مسئولیت پذیری اجتماعی گردشگران در روستاهای مقصد گردشگری (مورد مطالعه: گردشگران دهستان های شهرستان خواف)",
+          "venue": "مطالعات اجتماعی گردشگری",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1071785.html",
+          "parent_id": null,
+          "prof_id": "18b6edf0a20b",
+          "pub_id": "b97f30245786"
+        },
+        {
+          "id": "prof_72df51b8390f__pub_8e14a042c7c1",
+          "score": 0.3333333333333333,
+          "doc_type": "publication",
+          "title": "بررسی رابطه کمال گرایی و اضطراب با پدیده های حسی در مبتلایان به اختلال وسواسی- اجباری شهرستان لاهیجان",
+          "venue": "تحقیقات نظام سلامت",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1081489.html",
+          "parent_id": null,
+          "prof_id": "72df51b8390f",
+          "pub_id": "8e14a042c7c1"
+        },
+        {
+          "id": "prof_ebe40f6a70c8__pub_f7a6bddaed9c",
+          "score": 0.25,
+          "doc_type": "publication",
+          "title": "بررسی تحلیلی- تطبیقی نسبت عقل و دین از دیدگاه آیت الله جوادی آملی و برتراند راسل با نگاهی نقادانه به آرای راسل",
+          "venue": "مطالعات معرفتی در دانشگاه اسلامی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1085616.html",
+          "parent_id": null,
+          "prof_id": "ebe40f6a70c8",
+          "pub_id": "f7a6bddaed9c"
+        },
+        {
+          "id": "prof_27028e383877__pub_ec195f139a8f",
+          "score": 0.2,
+          "doc_type": "publication",
+          "title": "سروتایپینگ، آنتی بیوگرام تایپینگ ومولکولارتایپینگ سالمونلاهای جدا شده از ماکیان استان سیستان و بلوچستان",
+          "venue": "هشتمین کنگره دامپزشکان علوم بالینی ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039192.html",
+          "parent_id": null,
+          "prof_id": "27028e383877",
+          "pub_id": "ec195f139a8f"
+        },
+        {
+          "id": "prof_72df51b8390f__pub_d3de82520d91",
+          "score": 0.16666666666666666,
+          "doc_type": "publication",
+          "title": "الگویابی معادلات ساختاری حساسیت اضطرابی، نظم جویی هیجانی و تاب آوری در پدیدآیی اختلالات افسردگی و استرس پس از سانحه آتش نشانان",
+          "venue": "روان شناسی بالینی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1077388.html",
+          "parent_id": null,
+          "prof_id": "72df51b8390f",
+          "pub_id": "d3de82520d91"
+        }
+      ],
+      "fused_top": [
+        {
+          "id": "prof_18b6edf0a20b__pub_b97f30245786",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": null,
+          "lex_rank": 1,
+          "doc_type": "publication",
+          "title": "تحلیل سطح مسئولیت پذیری اجتماعی گردشگران در روستاهای مقصد گردشگری (مورد مطالعه: گردشگران دهستان های شهرستان خواف)",
+          "venue": "مطالعات اجتماعی گردشگری",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1071785.html",
+          "parent_id": null,
+          "prof_id": "18b6edf0a20b",
+          "pub_id": "b97f30245786"
+        },
+        {
+          "id": "prof_d857496528d9__pub_d9a8064af129",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": 1,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "تضعیف نوفه زمین غلت در حوزه زمان- فرکانس",
+          "venue": "هجدهمین کنفرانس ژئوفیزیک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1068717.html",
+          "parent_id": null,
+          "prof_id": "d857496528d9",
+          "pub_id": "d9a8064af129"
+        },
+        {
+          "id": "prof_87e267308c38__pub_6bcabe0bd6b6",
+          "fused_score": 0.016129033258064456,
+          "dense_rank": 2,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "آزمون استقلال سری زمانی مبتنی بر معیار واگرایی توان",
+          "venue": "Journal of Statistical Sciences",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1071419.html",
+          "parent_id": null,
+          "prof_id": "87e267308c38",
+          "pub_id": "6bcabe0bd6b6"
+        },
+        {
+          "id": "prof_72df51b8390f__pub_8e14a042c7c1",
+          "fused_score": 0.016129033258064456,
+          "dense_rank": null,
+          "lex_rank": 2,
+          "doc_type": "publication",
+          "title": "بررسی رابطه کمال گرایی و اضطراب با پدیده های حسی در مبتلایان به اختلال وسواسی- اجباری شهرستان لاهیجان",
+          "venue": "تحقیقات نظام سلامت",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1081489.html",
+          "parent_id": null,
+          "prof_id": "72df51b8390f",
+          "pub_id": "8e14a042c7c1"
+        },
+        {
+          "id": "prof_6f5934d02caf__pub_d9a8064af129",
+          "fused_score": 0.015873016873015813,
+          "dense_rank": 3,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "تضعیف نوفه زمین غلت در حوزه زمان- فرکانس",
+          "venue": "هجدهمین کنفرانس ژئوفیزیک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1068717.html",
+          "parent_id": null,
+          "prof_id": "6f5934d02caf",
+          "pub_id": "d9a8064af129"
+        }
+      ]
+    },
+    {
+      "query": "الاستیسیته سایز-وابسته",
+      "dense_ms": 58.42,
+      "lex_ms": 709.96,
+      "dense_top": [
+        {
+          "id": "prof_87e267308c38__pub_68982690d2aa",
+          "score": 1.3986647129058838,
+          "doc_type": "publication",
+          "title": "ماکسیمم اندازه آنتروپی تعمیم یافته تحت قید پارامتری کردن اندازه واگرایی تعمیم یافته",
+          "venue": "دومین کارگاه اندازه های اطلاعات و کاربردهای آن",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1046955.html",
+          "parent_id": null,
+          "prof_id": "87e267308c38",
+          "pub_id": "68982690d2aa"
+        },
+        {
+          "id": "prof_01eada9844e4__pub_e15669693512",
+          "score": 1.408577561378479,
+          "doc_type": "publication",
+          "title": "تاثیر ابعاد و اندازه ذرات آبگیر بر ضریب دبی آبگیرهای کفی متخلخل با استفاده از مدل فیزیکی",
+          "venue": "علوم و مهندسی آبیاری",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1069084.html",
+          "parent_id": null,
+          "prof_id": "01eada9844e4",
+          "pub_id": "e15669693512"
+        },
+        {
+          "id": "prof_db83618b305a__pub_e15669693512",
+          "score": 1.4109385013580322,
+          "doc_type": "publication",
+          "title": "تاثیر ابعاد و اندازه ذرات آبگیر بر ضریب دبی آبگیرهای کفی متخلخل با استفاده از مدل فیزیکی",
+          "venue": "علوم و مهندسی آبیاری",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1069084.html",
+          "parent_id": null,
+          "prof_id": "db83618b305a",
+          "pub_id": "e15669693512"
+        },
+        {
+          "id": "prof_7acb24f227c8__pub_a14efca8a593",
+          "score": 1.4152703285217285,
+          "doc_type": "publication",
+          "title": "ارتباط بین ابعاد آنتروپومتریک با ناهنجاری های بالاتنه در دانش آموزان دختر مقطع ابتدایی",
+          "venue": "ارگونومی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1083949.html",
+          "parent_id": null,
+          "prof_id": "7acb24f227c8",
+          "pub_id": "a14efca8a593"
+        },
+        {
+          "id": "prof_59da2f3f2d13__pub_670d968b564f",
+          "score": 1.4275672435760498,
+          "doc_type": "publication",
+          "title": "شاخص توده بدنی: مقایسه تنظیم هیجان و رفتار خوردن",
+          "venue": "یافته - دانشگاه علوم پزشکی لرستان",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1098487.html",
+          "parent_id": null,
+          "prof_id": "59da2f3f2d13",
+          "pub_id": "670d968b564f"
+        }
+      ],
+      "lex_top": [
+        {
+          "id": "prof_e678700ed191__pub_d93b401989d4",
+          "score": 0.5,
+          "doc_type": "publication",
+          "title": "بررسی تاثیر ترکیب شیمیایی شیشه پایه بر رفتار تبلور و زیست سازگاری شیشه- سرامیک های آپاتیت - مولایت",
+          "venue": "دهمین کنگره سرامیک ایران و اولین کنفرانس بین المللی در حوزه سرامیک های پیشرفته",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1053542.html",
+          "parent_id": null,
+          "prof_id": "e678700ed191",
+          "pub_id": "d93b401989d4"
+        },
+        {
+          "id": "prof_f7b132640705__pub_158cb4c1abf4",
+          "score": 0.3333333333333333,
+          "doc_type": "publication",
+          "title": "بررسی همآیندها در شفافیت و روانی متن ترجمه شده -موردپژوهی کتاب بیست داستان از بیست نویسنده برنده جایزه نوبل ادبیات-",
+          "venue": null,
+          "article_link": "#",
+          "parent_id": null,
+          "prof_id": "f7b132640705",
+          "pub_id": "158cb4c1abf4"
+        },
+        {
+          "id": "prof_f91a3a7ec55e__pub_606b860dfa1e",
+          "score": 0.25,
+          "doc_type": "publication",
+          "title": "بررسی بیان ژن های سیتوکین های پیش التهابی IL-6، IL-1β و TNF-α در بافت عصب سیاتیک موش های صحرایی هیپرگلیسمک پس از تجویز متفورمین و گالیک اسید",
+          "venue": "دیابت و متابولیسم ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1099644.html",
+          "parent_id": null,
+          "prof_id": "f91a3a7ec55e",
+          "pub_id": "606b860dfa1e"
+        },
+        {
+          "id": "prof_f28734bbe64f__pub_bd2ef5502c14",
+          "score": 0.2,
+          "doc_type": "publication",
+          "title": "بررسی ویژگیهای رشد کودک در سنین الف - ب - ج و ارتباط آن با داستانهای واقعی و تخیلی (افسانه، فانتزی) با استناد به ادبیات داستانی کودک دهه هفتاد در ایران",
+          "venue": "پنجمین گردهمایی سراسری انجمن ترویج زبان و ادب فارسی (گلبانگ سر بلندی)",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1018611.html",
+          "parent_id": null,
+          "prof_id": "f28734bbe64f",
+          "pub_id": "bd2ef5502c14"
+        },
+        {
+          "id": "prof_183ffb514976__pub_f4adc523118e",
+          "score": 0.16666666666666666,
+          "doc_type": "publication",
+          "title": "مدلسازی و پیش بینی تشکیل ازون هوای شهرستان مشهد با استفاده از شبکه عصبی- فازی بر پایه سیستم های استنتاج فازی-تطبیقی",
+          "venue": "مهندسی شیمی ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1034653.html",
+          "parent_id": null,
+          "prof_id": "183ffb514976",
+          "pub_id": "f4adc523118e"
+        }
+      ],
+      "fused_top": [
+        {
+          "id": "prof_59da2f3f2d13__pub_536866435be0",
+          "fused_score": 0.024115296803652965,
+          "dense_rank": 13,
+          "lex_rank": 36,
+          "doc_type": "publication",
+          "title": "مقایسه ویژگی هایشخصیتی و رفتار خوردن درزنانبا شاخص توده بدنی بالا و طبیعی",
+          "venue": "یافته - دانشگاه علوم پزشکی لرستان",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1098579.html",
+          "parent_id": null,
+          "prof_id": "59da2f3f2d13",
+          "pub_id": "536866435be0"
+        },
+        {
+          "id": "prof_59da2f3f2d13__pub_670d968b564f",
+          "fused_score": 0.02247681396617567,
+          "dense_rank": 5,
+          "lex_rank": 81,
+          "doc_type": "publication",
+          "title": "شاخص توده بدنی: مقایسه تنظیم هیجان و رفتار خوردن",
+          "venue": "یافته - دانشگاه علوم پزشکی لرستان",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1098487.html",
+          "parent_id": null,
+          "prof_id": "59da2f3f2d13",
+          "pub_id": "670d968b564f"
+        },
+        {
+          "id": "prof_e678700ed191__pub_d93b401989d4",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": null,
+          "lex_rank": 1,
+          "doc_type": "publication",
+          "title": "بررسی تاثیر ترکیب شیمیایی شیشه پایه بر رفتار تبلور و زیست سازگاری شیشه- سرامیک های آپاتیت - مولایت",
+          "venue": "دهمین کنگره سرامیک ایران و اولین کنفرانس بین المللی در حوزه سرامیک های پیشرفته",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1053542.html",
+          "parent_id": null,
+          "prof_id": "e678700ed191",
+          "pub_id": "d93b401989d4"
+        },
+        {
+          "id": "prof_87e267308c38__pub_68982690d2aa",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": 1,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "ماکسیمم اندازه آنتروپی تعمیم یافته تحت قید پارامتری کردن اندازه واگرایی تعمیم یافته",
+          "venue": "دومین کارگاه اندازه های اطلاعات و کاربردهای آن",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1046955.html",
+          "parent_id": null,
+          "prof_id": "87e267308c38",
+          "pub_id": "68982690d2aa"
+        },
+        {
+          "id": "prof_f7b132640705__pub_158cb4c1abf4",
+          "fused_score": 0.016129033258064456,
+          "dense_rank": null,
+          "lex_rank": 2,
+          "doc_type": "publication",
+          "title": "بررسی همآیندها در شفافیت و روانی متن ترجمه شده -موردپژوهی کتاب بیست داستان از بیست نویسنده برنده جایزه نوبل ادبیات-",
+          "venue": null,
+          "article_link": "#",
+          "parent_id": null,
+          "prof_id": "f7b132640705",
+          "pub_id": "158cb4c1abf4"
+        }
+      ]
+    },
+    {
+      "query": "روش های حل معادلات دیفرانسیل در تیر",
+      "dense_ms": 60.37,
+      "lex_ms": 1087.64,
+      "dense_top": [
+        {
+          "id": "prof_4c690833fef9__pub_5a52ec87161d",
+          "score": 1.073492407798767,
+          "doc_type": "publication",
+          "title": "روش تکرار تغییرات یانگ-لاپلاس کسری موضعی برای حل معادلات دیفرانسیل جزئی کسری موضعی",
+          "venue": "پژوهش های نوین در ریاضی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1087692.html",
+          "parent_id": null,
+          "prof_id": "4c690833fef9",
+          "pub_id": "5a52ec87161d"
+        },
+        {
+          "id": "prof_4019ae82e519__pub_f0e8dab0a8ea",
+          "score": 1.1582807302474976,
+          "doc_type": "publication",
+          "title": "اصلاح روش تبدیل دیفرانسیلی دو بعدی برای حل مسائل دیریکلۀ همگن؛ مسألۀ نمونه: انتقال حرارت در میله ها",
+          "venue": "مکانیک سازه ها و شاره ها-Journal of Solid and Fluid Mechanics",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1081605.html",
+          "parent_id": null,
+          "prof_id": "4019ae82e519",
+          "pub_id": "f0e8dab0a8ea"
+        },
+        {
+          "id": "prof_3d5d6c10c60b__pub_54716f051cfa",
+          "score": 1.171196460723877,
+          "doc_type": "publication",
+          "title": "تعدیل وردشی شبکه در حل معادلات دیفرانسیل با مشتقات جزیی دوبعدی",
+          "venue": "فرهنگ و اندیشه ریاضی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1016072.html",
+          "parent_id": null,
+          "prof_id": "3d5d6c10c60b",
+          "pub_id": "54716f051cfa"
+        },
+        {
+          "id": "prof_3d5d6c10c60b__pub_613ed19e8833",
+          "score": 1.1824767589569092,
+          "doc_type": "publication",
+          "title": "Cubic B-splines collocation method for solving a partial integrodifferential equation with a weakly singular kernel",
+          "venue": "Computational Methods for Differential Equations",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1075010.html",
+          "parent_id": null,
+          "prof_id": "3d5d6c10c60b",
+          "pub_id": "613ed19e8833"
+        },
+        {
+          "id": "prof_4c690833fef9__pub_613ed19e8833",
+          "score": 1.1884291172027588,
+          "doc_type": "publication",
+          "title": "Cubic B-splines collocation method for solving a partial integrodifferential equation with a weakly singular kernel",
+          "venue": "Computational Methods for Differential Equations",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1075010.html",
+          "parent_id": null,
+          "prof_id": "4c690833fef9",
+          "pub_id": "613ed19e8833"
+        }
+      ],
+      "lex_top": [
+        {
+          "id": "prof_546d7f0b14dc__pub_0938a88973cd",
+          "score": 0.5,
+          "doc_type": "publication",
+          "title": "بررسی تفاوت های فردی و رهیافت های شناختی در رابطه حافظه فعال و عملکرد حل مسئله ریاضی فراگیران",
+          "venue": "اولین همایش ملی یافته های علوم شناختی در تعلیم و تربیت",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1027386.html",
+          "parent_id": null,
+          "prof_id": "546d7f0b14dc",
+          "pub_id": "0938a88973cd"
+        },
+        {
+          "id": "prof_d787e6fd197b__pub_628dd02ba2a7",
+          "score": 0.3333333333333333,
+          "doc_type": "publication",
+          "title": "بررسی و تحلیل عناصر و ویژگی های مطرح در رابط کاربر نرم افزار سیمرغ و تعیین میزان رضایت دانشجویان دانشکده علوم تربیتی و روانشناسی دانشگاه فردوسی مشهد از تعامل با این نرم افزار",
+          "venue": "کتابداری و اطلاع رسانی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-203373.html",
+          "parent_id": null,
+          "prof_id": "d787e6fd197b",
+          "pub_id": "628dd02ba2a7"
+        },
+        {
+          "id": "prof_d787e6fd197b__pub_eedef9f73801",
+          "score": 0.25,
+          "doc_type": "publication",
+          "title": "بررسی میزان همخوانی سرعنوان های موضوعی فارسی با کلید واژه های عنوان و فهرست مندرجات کتابهای فارسی در حوزه های علوم انسانی، علوم اتماعی، علوم کاربردی و علوم محض",
+          "venue": "کتابداری و اطلاع رسانی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1006230.html",
+          "parent_id": null,
+          "prof_id": "d787e6fd197b",
+          "pub_id": "eedef9f73801"
+        },
+        {
+          "id": "prof_d787e6fd197b__pub_5aff909e0b4b",
+          "score": 0.2,
+          "doc_type": "publication",
+          "title": "واکاوی مفهوم فرهنگ اطلاعاتی و بررسی وضعیت آن در بین اعضای هیئت علمی دانشگاه فردوسی مشهد",
+          "venue": "تعامل انسان و اطلاعات",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1064687.html",
+          "parent_id": null,
+          "prof_id": "d787e6fd197b",
+          "pub_id": "5aff909e0b4b"
+        },
+        {
+          "id": "prof_26f31a474987__pub_6d5dab1e5421",
+          "score": 0.16666666666666666,
+          "doc_type": "publication",
+          "title": "مبانی، اهداف و اصول تربی تدینی دان شآموزان مبتنی بر پذیرش دور هرمنوتیک میان افکار، احوال و اعمال در حکمت متعالیه",
+          "venue": "مسائل کاربردی تعلیم و تربیت اسلامی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1084463.html",
+          "parent_id": null,
+          "prof_id": "26f31a474987",
+          "pub_id": "6d5dab1e5421"
+        }
+      ],
+      "fused_top": [
+        {
+          "id": "prof_4c690833fef9__pub_5a52ec87161d",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": 1,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "روش تکرار تغییرات یانگ-لاپلاس کسری موضعی برای حل معادلات دیفرانسیل جزئی کسری موضعی",
+          "venue": "پژوهش های نوین در ریاضی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1087692.html",
+          "parent_id": null,
+          "prof_id": "4c690833fef9",
+          "pub_id": "5a52ec87161d"
+        },
+        {
+          "id": "prof_546d7f0b14dc__pub_0938a88973cd",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": null,
+          "lex_rank": 1,
+          "doc_type": "publication",
+          "title": "بررسی تفاوت های فردی و رهیافت های شناختی در رابطه حافظه فعال و عملکرد حل مسئله ریاضی فراگیران",
+          "venue": "اولین همایش ملی یافته های علوم شناختی در تعلیم و تربیت",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1027386.html",
+          "parent_id": null,
+          "prof_id": "546d7f0b14dc",
+          "pub_id": "0938a88973cd"
+        },
+        {
+          "id": "prof_d787e6fd197b__pub_628dd02ba2a7",
+          "fused_score": 0.016129033258064456,
+          "dense_rank": null,
+          "lex_rank": 2,
+          "doc_type": "publication",
+          "title": "بررسی و تحلیل عناصر و ویژگی های مطرح در رابط کاربر نرم افزار سیمرغ و تعیین میزان رضایت دانشجویان دانشکده علوم تربیتی و روانشناسی دانشگاه فردوسی مشهد از تعامل با این نرم افزار",
+          "venue": "کتابداری و اطلاع رسانی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-203373.html",
+          "parent_id": null,
+          "prof_id": "d787e6fd197b",
+          "pub_id": "628dd02ba2a7"
+        },
+        {
+          "id": "prof_4019ae82e519__pub_f0e8dab0a8ea",
+          "fused_score": 0.016129033258064456,
+          "dense_rank": 2,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "اصلاح روش تبدیل دیفرانسیلی دو بعدی برای حل مسائل دیریکلۀ همگن؛ مسألۀ نمونه: انتقال حرارت در میله ها",
+          "venue": "مکانیک سازه ها و شاره ها-Journal of Solid and Fluid Mechanics",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1081605.html",
+          "parent_id": null,
+          "prof_id": "4019ae82e519",
+          "pub_id": "f0e8dab0a8ea"
+        },
+        {
+          "id": "prof_d787e6fd197b__pub_eedef9f73801",
+          "fused_score": 0.015873016873015813,
+          "dense_rank": null,
+          "lex_rank": 3,
+          "doc_type": "publication",
+          "title": "بررسی میزان همخوانی سرعنوان های موضوعی فارسی با کلید واژه های عنوان و فهرست مندرجات کتابهای فارسی در حوزه های علوم انسانی، علوم اتماعی، علوم کاربردی و علوم محض",
+          "venue": "کتابداری و اطلاع رسانی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1006230.html",
+          "parent_id": null,
+          "prof_id": "d787e6fd197b",
+          "pub_id": "eedef9f73801"
+        }
+      ]
+    },
+    {
+      "query": "مهندسی عمران",
+      "dense_ms": 55.25,
+      "lex_ms": 394.95,
+      "dense_top": [
+        {
+          "id": "prof_55679282b4c8__pub_20cd817aa09c",
+          "score": 0.978123664855957,
+          "doc_type": "publication",
+          "title": "تحلیل اندرکنش خاک سازه برای ساختمان بلند مجاور گود عمیق",
+          "venue": "زمین شناسی مهندسی-انجمن زمین شناسی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1099702.html",
+          "parent_id": null,
+          "prof_id": "55679282b4c8",
+          "pub_id": "20cd817aa09c"
+        },
+        {
+          "id": "prof_a8dfdebd3cb3__pub_d54e502aab2c",
+          "score": 0.996446430683136,
+          "doc_type": "publication",
+          "title": "ارائه ی مدل سرمایه گذاری پروژه های انبوه سازی سازه های ال اس اف",
+          "venue": "مهندسی سازه و ساخت",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1091559.html",
+          "parent_id": null,
+          "prof_id": "a8dfdebd3cb3",
+          "pub_id": "d54e502aab2c"
+        },
+        {
+          "id": "prof_d921e549e801__pub_20cd817aa09c",
+          "score": 0.9995207190513611,
+          "doc_type": "publication",
+          "title": "تحلیل اندرکنش خاک سازه برای ساختمان بلند مجاور گود عمیق",
+          "venue": "زمین شناسی مهندسی-انجمن زمین شناسی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1099702.html",
+          "parent_id": null,
+          "prof_id": "d921e549e801",
+          "pub_id": "20cd817aa09c"
+        },
+        {
+          "id": "prof_8ff3d0172956__pub_1abfa5869c07",
+          "score": 1.0019135475158691,
+          "doc_type": "publication",
+          "title": "عملکرد لرزه ای دیوارهای آجری",
+          "venue": "مهندسی عمران فردوسی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1030590.html",
+          "parent_id": null,
+          "prof_id": "8ff3d0172956",
+          "pub_id": "1abfa5869c07"
+        },
+        {
+          "id": "prof_8bb01d613c6b__pub_b468e619bacc",
+          "score": 1.0045866966247559,
+          "doc_type": "publication",
+          "title": "Elasto‐plastic analysis of three‐dimensional structures",
+          "venue": "Engineering Computations",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1092279.html",
+          "parent_id": null,
+          "prof_id": "8bb01d613c6b",
+          "pub_id": "b468e619bacc"
+        }
+      ],
+      "lex_top": [
+        {
+          "id": "prof_0824c541d6bd__pub_1237063c7b04",
+          "score": 0.5,
+          "doc_type": "publication",
+          "title": "مطالعه عددی رفتار لوله های مدفون در خاک در برابر گسل معکوس",
+          "venue": "دومین کنفرانس سراسری توسعه محوری مهندسی عمران، معماری، برق و مکانبک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1053610.html",
+          "parent_id": null,
+          "prof_id": "0824c541d6bd",
+          "pub_id": "1237063c7b04"
+        },
+        {
+          "id": "prof_b0fb63590416__pub_25627724ef54",
+          "score": 0.3333333333333333,
+          "doc_type": "publication",
+          "title": "مقایسه انواع سیستم های ساختمانی بر میزان مصرف آب در ساخت وساز (نمونه مورد مطالعه، در شهر مشهد)",
+          "venue": "دهمین کنفرانس ملی مهندسی عمران، معماری و توسعه شهری پایدار ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1093269.html",
+          "parent_id": null,
+          "prof_id": "b0fb63590416",
+          "pub_id": "25627724ef54"
+        },
+        {
+          "id": "prof_7b707aee9753__pub_6277e64e6ddc",
+          "score": 0.25,
+          "doc_type": "publication",
+          "title": "مقایسه مشخصات پوزولان طبیعی معدن چکنه با سایر معادن پوزولان ایران",
+          "venue": "پنجمین کنفرانس ملی مهندسی عمران، معماری و توسعه شهری پایدار",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1065148.html",
+          "parent_id": null,
+          "prof_id": "7b707aee9753",
+          "pub_id": "6277e64e6ddc"
+        },
+        {
+          "id": "prof_381e50ad3fe2__pub_d208a1698ffa",
+          "score": 0.2,
+          "doc_type": "publication",
+          "title": "شناسایی ریسک های استفاده از سیستم اطلاعات ساختمان BIM در پروژه های عمرانی با استفاده از آزمون t یک نمونه (مطالعه موردی: پروژه های بلند مرتبه شهر بصره)",
+          "venue": "دومین کنفرانس بین المللی معماری، عمران، شهرسازی و محیط زیست و افق های هنر اسلامی در بیانیه گام دوم انقلاب",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1091987.html",
+          "parent_id": null,
+          "prof_id": "381e50ad3fe2",
+          "pub_id": "d208a1698ffa"
+        },
+        {
+          "id": "prof_8228f4ae75e2__pub_d9fa6e069382",
+          "score": 0.16666666666666666,
+          "doc_type": "publication",
+          "title": "تهیه داربست های طبیعی سه بعدی جهت مطالعات مهندسی بافت",
+          "venue": "شانزدهمین کنفرانس سراسری و چهارمین کنفرانس بین المللی زیست شناسی ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1019491.html",
+          "parent_id": null,
+          "prof_id": "8228f4ae75e2",
+          "pub_id": "d9fa6e069382"
+        }
+      ],
+      "fused_top": [
+        {
+          "id": "prof_0824c541d6bd__pub_1237063c7b04",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": null,
+          "lex_rank": 1,
+          "doc_type": "publication",
+          "title": "مطالعه عددی رفتار لوله های مدفون در خاک در برابر گسل معکوس",
+          "venue": "دومین کنفرانس سراسری توسعه محوری مهندسی عمران، معماری، برق و مکانبک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1053610.html",
+          "parent_id": null,
+          "prof_id": "0824c541d6bd",
+          "pub_id": "1237063c7b04"
+        },
+        {
+          "id": "prof_55679282b4c8__pub_20cd817aa09c",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": 1,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "تحلیل اندرکنش خاک سازه برای ساختمان بلند مجاور گود عمیق",
+          "venue": "زمین شناسی مهندسی-انجمن زمین شناسی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1099702.html",
+          "parent_id": null,
+          "prof_id": "55679282b4c8",
+          "pub_id": "20cd817aa09c"
+        },
+        {
+          "id": "prof_a8dfdebd3cb3__pub_d54e502aab2c",
+          "fused_score": 0.016129033258064456,
+          "dense_rank": 2,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "ارائه ی مدل سرمایه گذاری پروژه های انبوه سازی سازه های ال اس اف",
+          "venue": "مهندسی سازه و ساخت",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1091559.html",
+          "parent_id": null,
+          "prof_id": "a8dfdebd3cb3",
+          "pub_id": "d54e502aab2c"
+        },
+        {
+          "id": "prof_b0fb63590416__pub_25627724ef54",
+          "fused_score": 0.016129033258064456,
+          "dense_rank": null,
+          "lex_rank": 2,
+          "doc_type": "publication",
+          "title": "مقایسه انواع سیستم های ساختمانی بر میزان مصرف آب در ساخت وساز (نمونه مورد مطالعه، در شهر مشهد)",
+          "venue": "دهمین کنفرانس ملی مهندسی عمران، معماری و توسعه شهری پایدار ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1093269.html",
+          "parent_id": null,
+          "prof_id": "b0fb63590416",
+          "pub_id": "25627724ef54"
+        },
+        {
+          "id": "prof_d921e549e801__pub_20cd817aa09c",
+          "fused_score": 0.015873016873015813,
+          "dense_rank": 3,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "تحلیل اندرکنش خاک سازه برای ساختمان بلند مجاور گود عمیق",
+          "venue": "زمین شناسی مهندسی-انجمن زمین شناسی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1099702.html",
+          "parent_id": null,
+          "prof_id": "d921e549e801",
+          "pub_id": "20cd817aa09c"
+        }
+      ]
+    },
+    {
+      "query": "International Journal of Solids and Structures مقالات",
+      "dense_ms": 58.47,
+      "lex_ms": 1259.06,
+      "dense_top": [
+        {
+          "id": "prof_b3f8272bc837__pub_311340115ae3",
+          "score": 1.135390281677246,
+          "doc_type": "publication",
+          "title": "QUANTITIVE XRD AND EDDY CURRENT INVESTIGATION OF ROLLED AISI 304L AUSTENITIC STAINLESS STEEL",
+          "venue": "the first international joint conference of Iranian metallurgical engineering society and Iranian foundrymen\\\\\\'s society",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1031261.html",
+          "parent_id": null,
+          "prof_id": "b3f8272bc837",
+          "pub_id": "311340115ae3"
+        },
+        {
+          "id": "prof_9027590c3cf3__pub_370a7b7afffa",
+          "score": 1.176621675491333,
+          "doc_type": "publication",
+          "title": "طراحی، ساخت و بررسی رفتار فشاری ساختارهای متخلخل ورونوئی",
+          "venue": "دوازدهمین کنفرانس بین المللی مهندسی مواد و متالورژی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1097135.html",
+          "parent_id": null,
+          "prof_id": "9027590c3cf3",
+          "pub_id": "370a7b7afffa"
+        },
+        {
+          "id": "prof_ab9346f806f6__pub_3569566403b1",
+          "score": 1.1875581741333008,
+          "doc_type": "publication",
+          "title": "بررسی پژوهش های پایان نامه ای موجود در پژوهشگاه اطلاعات و مدارک علمی ایران در رابطه با اثرات بیولوژیک عصاره های گیاهی و دسته بندی موضوعی و سیستماتیک آن ها",
+          "venue": "شانزدهمین کنفرانس سراسری و چهارمین کنفرانس بین المللی زیست شناسی ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1017313.html",
+          "parent_id": null,
+          "prof_id": "ab9346f806f6",
+          "pub_id": "3569566403b1"
+        },
+        {
+          "id": "prof_8bb01d613c6b__pub_7ccb7a998f41",
+          "score": 1.2008459568023682,
+          "doc_type": "publication",
+          "title": "پایه های رفتار ناخطی سازه ها و راه حل های معادله های حاکم",
+          "venue": "سومین کنفرانس ملی سازه و فولاد و اولین کنفرانس ملی سازه های سبک فولادی (LSF)",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1078335.html",
+          "parent_id": null,
+          "prof_id": "8bb01d613c6b",
+          "pub_id": "7ccb7a998f41"
+        },
+        {
+          "id": "prof_8bb01d613c6b__pub_218614d7f0c9",
+          "score": 1.201737403869629,
+          "doc_type": "publication",
+          "title": "Explicit stiffness of tapered and monosymmertic i beam-columns",
+          "venue": "International Journal of Engineering",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1012780.html",
+          "parent_id": null,
+          "prof_id": "8bb01d613c6b",
+          "pub_id": "218614d7f0c9"
+        }
+      ],
+      "lex_top": [
+        {
+          "id": "prof_e7b1ec6f5b4e__pub_95a6ade95524",
+          "score": 0.5,
+          "doc_type": "publication",
+          "title": "Pillars, proofs and requirements of the Quran-Sufficiency Theory, along with its criticism",
+          "venue": "International Journal of Humanities and Cultural Studies",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1060364.html",
+          "parent_id": null,
+          "prof_id": "e7b1ec6f5b4e",
+          "pub_id": "95a6ade95524"
+        },
+        {
+          "id": "prof_7da8f22a2853__pub_34ff219cdf61",
+          "score": 0.3333333333333333,
+          "doc_type": "publication",
+          "title": "Cultural and Social Intelligences and Their Relationship to the Ability of Student Translators When Translating Cultural and Social Texts",
+          "venue": "International Journal of Comparative Literature and Translation Studies",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1053065.html",
+          "parent_id": null,
+          "prof_id": "7da8f22a2853",
+          "pub_id": "34ff219cdf61"
+        },
+        {
+          "id": "prof_abb23c0d499d__pub_95a6ade95524",
+          "score": 0.25,
+          "doc_type": "publication",
+          "title": "Pillars, proofs and requirements of the Quran-Sufficiency Theory, along with its criticism",
+          "venue": "International Journal of Humanities and Cultural Studies",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1060364.html",
+          "parent_id": null,
+          "prof_id": "abb23c0d499d",
+          "pub_id": "95a6ade95524"
+        },
+        {
+          "id": "prof_df85e3354eed__pub_6b597d0a405b",
+          "score": 0.2,
+          "doc_type": "publication",
+          "title": "Exploring the factors in aligning information systems and organizational strategies in tall organizational structures in an uncertain environment",
+          "venue": "The Electronic Journal of Information Systems in Developing Countries",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1086969.html",
+          "parent_id": null,
+          "prof_id": "df85e3354eed",
+          "pub_id": "6b597d0a405b"
+        },
+        {
+          "id": "prof_df85e3354eed__pub_a64570aabf3e",
+          "score": 0.16666666666666666,
+          "doc_type": "publication",
+          "title": "Does Abusive Supervision Affect Healthcare Employees’ Turnover Intention? Investigating the Mediating Role of Emotional Exhaustion and Moderating Role of Employee Resilience and Future Work Self-Salience",
+          "venue": "Journal of Health Management and Information Science",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1088525.html",
+          "parent_id": null,
+          "prof_id": "df85e3354eed",
+          "pub_id": "a64570aabf3e"
+        }
+      ],
+      "fused_top": [
+        {
+          "id": "prof_b3f8272bc837__pub_311340115ae3",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": 1,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "QUANTITIVE XRD AND EDDY CURRENT INVESTIGATION OF ROLLED AISI 304L AUSTENITIC STAINLESS STEEL",
+          "venue": "the first international joint conference of Iranian metallurgical engineering society and Iranian foundrymen\\\\\\'s society",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1031261.html",
+          "parent_id": null,
+          "prof_id": "b3f8272bc837",
+          "pub_id": "311340115ae3"
+        },
+        {
+          "id": "prof_e7b1ec6f5b4e__pub_95a6ade95524",
+          "fused_score": 0.01639344362295076,
+          "dense_rank": null,
+          "lex_rank": 1,
+          "doc_type": "publication",
+          "title": "Pillars, proofs and requirements of the Quran-Sufficiency Theory, along with its criticism",
+          "venue": "International Journal of Humanities and Cultural Studies",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1060364.html",
+          "parent_id": null,
+          "prof_id": "e7b1ec6f5b4e",
+          "pub_id": "95a6ade95524"
+        },
+        {
+          "id": "prof_7da8f22a2853__pub_34ff219cdf61",
+          "fused_score": 0.016129033258064456,
+          "dense_rank": null,
+          "lex_rank": 2,
+          "doc_type": "publication",
+          "title": "Cultural and Social Intelligences and Their Relationship to the Ability of Student Translators When Translating Cultural and Social Texts",
+          "venue": "International Journal of Comparative Literature and Translation Studies",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1053065.html",
+          "parent_id": null,
+          "prof_id": "7da8f22a2853",
+          "pub_id": "34ff219cdf61"
+        },
+        {
+          "id": "prof_9027590c3cf3__pub_370a7b7afffa",
+          "fused_score": 0.016129033258064456,
+          "dense_rank": 2,
+          "lex_rank": null,
+          "doc_type": "publication",
+          "title": "طراحی، ساخت و بررسی رفتار فشاری ساختارهای متخلخل ورونوئی",
+          "venue": "دوازدهمین کنفرانس بین المللی مهندسی مواد و متالورژی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1097135.html",
+          "parent_id": null,
+          "prof_id": "9027590c3cf3",
+          "pub_id": "370a7b7afffa"
+        },
+        {
+          "id": "prof_abb23c0d499d__pub_95a6ade95524",
+          "fused_score": 0.015873016873015813,
+          "dense_rank": null,
+          "lex_rank": 3,
+          "doc_type": "publication",
+          "title": "Pillars, proofs and requirements of the Quran-Sufficiency Theory, along with its criticism",
+          "venue": "International Journal of Humanities and Cultural Studies",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1060364.html",
+          "parent_id": null,
+          "prof_id": "abb23c0d499d",
+          "pub_id": "95a6ade95524"
+        }
+      ]
+    }
+  ]
+}

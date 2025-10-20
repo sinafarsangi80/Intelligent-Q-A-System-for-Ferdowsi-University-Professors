@@ -1,0 +1,288 @@
+{
+  "timestamp": "2025-09-11T06:16:02.813074Z",
+  "artifacts": "/home/sina-farsangi/Desktop/sina/RAG_Bcs_prj/artifacts",
+  "meta": {
+    "model": "sentence-transformers/LaBSE",
+    "dim": 768,
+    "count": 109583,
+    "metric": "cosine (IP on L2-normalized vectors)",
+    "created_at": "2025-09-10T11:42:00.009803Z",
+    "device": "cuda",
+    "python": "3.12.11",
+    "platform": "Linux-6.1.123+-x86_64-with-glibc2.35",
+    "langchain_version": "0.3.27",
+    "sentence_transformers_version": "5.1.0",
+    "paths": {
+      "root": "/content/drive/MyDrive/new_RAG/artifacts",
+      "index_faiss": "/content/drive/MyDrive/new_RAG/artifacts/index.faiss",
+      "docstore": "/content/drive/MyDrive/new_RAG/artifacts/index.pkl",
+      "meta": "/content/drive/MyDrive/new_RAG/artifacts/index_meta.json"
+    },
+    "corpus": {
+      "path": "/content/drive/MyDrive/new_RAG/corpus.jsonl",
+      "sha1": "09266b717bd783b55902ade239fae1cbc92a2357"
+    }
+  },
+  "index": {
+    "ntotal": 109583,
+    "dim": 768,
+    "load_ms": 1676.91
+  },
+  "queries": [
+    {
+      "query": "تحلیل تیر تیموشنکو",
+      "elapsed_ms": 80.32,
+      "results": [
+        {
+          "score": 1.3851758241653442,
+          "doc_type": "publication",
+          "title": "تحلیل ارتعاشات تیر تیموشنکو دارای ترک باز لبه ای",
+          "venue": "پانزدهمین کنفرانس بین المللی سالیانه مهندسی مکانیک",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-102062.html",
+          "parent_id": null,
+          "id": "prof_0c276b2fd039__pub_4b13a075f1c6"
+        },
+        {
+          "score": 1.433182716369629,
+          "doc_type": "publication",
+          "title": "Transient analysis of functionally graded THICK HOLLOW Circular cylinders under",
+          "venue": "Asian Pacific Conference for Materials and Mechanics 2009",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1012616.html",
+          "parent_id": null,
+          "id": "prof_c5dce1fac681__pub_b524e7e9c5f0"
+        },
+        {
+          "score": 1.4968757629394531,
+          "doc_type": "publication",
+          "title": "مقایسه عملکرد چند نمونه پرتابه تفنگ بادی به همراه اصلاح شکل دماغه",
+          "venue": "مهندسی مکانیک مدرس",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1069027.html",
+          "parent_id": null,
+          "id": "prof_a0b0805ec84c__pub_086ea0a21ac6"
+        },
+        {
+          "score": 1.5115361213684082,
+          "doc_type": "publication",
+          "title": "مقایسه عملکرد چند نمونه پرتابه تفنگ بادی به همراه اصلاح شکل دماغه",
+          "venue": "مهندسی مکانیک مدرس",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1069027.html",
+          "parent_id": null,
+          "id": "prof_f2a29c09411b__pub_086ea0a21ac6"
+        },
+        {
+          "score": 1.5190072059631348,
+          "doc_type": "publication",
+          "title": "تحلیل جریان چگالشی بخار و بررسی تأثیر میزان ماخ درگلوگاه برشعاع قطرات خروجی در شیپوره مادون صوت",
+          "venue": "مهندسی مکانیک",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1032162.html",
+          "parent_id": null,
+          "id": "prof_a0b0805ec84c__pub_dd1e047dc911"
+        }
+      ]
+    },
+    {
+      "query": "گرادیان الاستیسیته",
+      "elapsed_ms": 131.22,
+      "results": [
+        {
+          "score": 1.4350097179412842,
+          "doc_type": "publication",
+          "title": "تضعیف نوفه زمین غلت در حوزه زمان- فرکانس",
+          "venue": "هجدهمین کنفرانس ژئوفیزیک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1068717.html",
+          "parent_id": null,
+          "id": "prof_d857496528d9__pub_d9a8064af129"
+        },
+        {
+          "score": 1.4382768869400024,
+          "doc_type": "publication",
+          "title": "آزمون استقلال سری زمانی مبتنی بر معیار واگرایی توان",
+          "venue": "Journal of Statistical Sciences",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1071419.html",
+          "parent_id": null,
+          "id": "prof_87e267308c38__pub_6bcabe0bd6b6"
+        },
+        {
+          "score": 1.4436850547790527,
+          "doc_type": "publication",
+          "title": "تضعیف نوفه زمین غلت در حوزه زمان- فرکانس",
+          "venue": "هجدهمین کنفرانس ژئوفیزیک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1068717.html",
+          "parent_id": null,
+          "id": "prof_6f5934d02caf__pub_d9a8064af129"
+        },
+        {
+          "score": 1.4528911113739014,
+          "doc_type": "publication",
+          "title": "Axisymmetric Radial Stagnation-Point Flow of a Viscous Fluid on a Rotating Cylinder with Time-Depend",
+          "venue": "Archivos de zootecnia",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-202176.html",
+          "parent_id": null,
+          "id": "prof_b6dffc550f3a__pub_e8a2d66f4808"
+        },
+        {
+          "score": 1.458852767944336,
+          "doc_type": "publication",
+          "title": "تضعیف نوفه زمین غلت در حوزه زمان- فرکانس",
+          "venue": "هجدهمین کنفرانس ژئوفیزیک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1068717.html",
+          "parent_id": null,
+          "id": "prof_f8251542a9e7__pub_d9a8064af129"
+        }
+      ]
+    },
+    {
+      "query": "مهندسی عمران",
+      "elapsed_ms": 76.48,
+      "results": [
+        {
+          "score": 0.978123664855957,
+          "doc_type": "publication",
+          "title": "تحلیل اندرکنش خاک سازه برای ساختمان بلند مجاور گود عمیق",
+          "venue": "زمین شناسی مهندسی-انجمن زمین شناسی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1099702.html",
+          "parent_id": null,
+          "id": "prof_55679282b4c8__pub_20cd817aa09c"
+        },
+        {
+          "score": 0.996446430683136,
+          "doc_type": "publication",
+          "title": "ارائه ی مدل سرمایه گذاری پروژه های انبوه سازی سازه های ال اس اف",
+          "venue": "مهندسی سازه و ساخت",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1091559.html",
+          "parent_id": null,
+          "id": "prof_a8dfdebd3cb3__pub_d54e502aab2c"
+        },
+        {
+          "score": 0.9995207190513611,
+          "doc_type": "publication",
+          "title": "تحلیل اندرکنش خاک سازه برای ساختمان بلند مجاور گود عمیق",
+          "venue": "زمین شناسی مهندسی-انجمن زمین شناسی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1099702.html",
+          "parent_id": null,
+          "id": "prof_d921e549e801__pub_20cd817aa09c"
+        },
+        {
+          "score": 1.0019135475158691,
+          "doc_type": "publication",
+          "title": "عملکرد لرزه ای دیوارهای آجری",
+          "venue": "مهندسی عمران فردوسی",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1030590.html",
+          "parent_id": null,
+          "id": "prof_8ff3d0172956__pub_1abfa5869c07"
+        },
+        {
+          "score": 1.0045866966247559,
+          "doc_type": "publication",
+          "title": "Elasto‐plastic analysis of three‐dimensional structures",
+          "venue": "Engineering Computations",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1092279.html",
+          "parent_id": null,
+          "id": "prof_8bb01d613c6b__pub_b468e619bacc"
+        }
+      ]
+    },
+    {
+      "query": "Dynamic analysis of beams",
+      "elapsed_ms": 80.11,
+      "results": [
+        {
+          "score": 1.2191987037658691,
+          "doc_type": "publication",
+          "title": "تحلیل عددی جریان گذرا در داخل رگهای دارای انحنا",
+          "venue": "یازدهمین کنفرانس دینامیک شاره ها",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1008374.html",
+          "parent_id": null,
+          "id": "prof_c5aa4d686b22__pub_a18423d6d9d9"
+        },
+        {
+          "score": 1.2919301986694336,
+          "doc_type": "publication",
+          "title": "تحلیل عددی جریان و انتقال حرارت نانوسیال درون لوله با انحنائ 90",
+          "venue": "دوازدهمین کنفرانس دینامیک شاره ها",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1014722.html",
+          "parent_id": null,
+          "id": "prof_c5aa4d686b22__pub_ecde6c947db1"
+        },
+        {
+          "score": 1.308711051940918,
+          "doc_type": "publication",
+          "title": "بررسی رفتار ارتعاشی قابها به کمک پارامتر های مودال تجربی",
+          "venue": "چهارمین کنگره ملی مهندسی عمران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1045095.html",
+          "parent_id": null,
+          "id": "prof_1b25720e470d__pub_d4cfbbc006f8"
+        },
+        {
+          "score": 1.3094063997268677,
+          "doc_type": "publication",
+          "title": "Nonlinear Vibration and Buckling Analysis of Beams Using Homotopy perturbation Method",
+          "venue": "Nonlinear Vibration and Buckling Analysis of Beams Using Homotopy perturbation Method",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1034259.html",
+          "parent_id": null,
+          "id": "prof_347b47e5b924__pub_0500a57369ad"
+        },
+        {
+          "score": 1.3107218742370605,
+          "doc_type": "publication",
+          "title": "بررسی الگوی جریان اطراف مقطع دو بعدی بال نامتناهی در فاصله مختلف از سطح",
+          "venue": "بیستمین کنفرانس دینامیک شاره ها",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1096510.html",
+          "parent_id": null,
+          "id": "prof_3a284728196c__pub_1beaa20a537e"
+        }
+      ]
+    },
+    {
+      "query": "مقالات مکانیک جامدات",
+      "elapsed_ms": 73.05,
+      "results": [
+        {
+          "score": 0.9080911874771118,
+          "doc_type": "publication",
+          "title": "مطالعه شکست دینامیکی مواد تابعی تحت شوکهای حرارتی-مکانیکی",
+          "venue": "مکانیک سازه ها و شاره ها-Journal of Solid and Fluid Mechanics",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1035745.html",
+          "parent_id": null,
+          "id": "prof_cd8d957d901d__pub_e66265f1c94d"
+        },
+        {
+          "score": 0.9973806738853455,
+          "doc_type": "publication",
+          "title": "بررسی خمش الاستیک - پلاستیک و رقم های گرد بر روی قالب های تغییر شکل پذیر",
+          "venue": "نهمین کنفرانس سالانه و پنجمین کنفرانس بین المللی مهندسی مکانیک isme2001",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-200214.html",
+          "parent_id": null,
+          "id": "prof_084b986b7079__pub_b4c59538f39a"
+        },
+        {
+          "score": 1.0129504203796387,
+          "doc_type": "publication",
+          "title": "The Impact of a Solid Object on to a Liquid Surface",
+          "venue": "19th Annual Conference on Mechanical Engineering-ISME2011",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1025216.html",
+          "parent_id": null,
+          "id": "prof_2a0d7a3149b7__pub_d49d77118578"
+        },
+        {
+          "score": 1.01335871219635,
+          "doc_type": "publication",
+          "title": "شکل دهی الکترومغناطیس ورق با استفاده از شکل دهی به روی پانچ به جای شکل دهی به درون قالب",
+          "venue": "مکانیک سازه ها و شاره ها-Journal of Solid and Fluid Mechanics",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1058400.html",
+          "parent_id": null,
+          "id": "prof_084b986b7079__pub_4174d2d5e29d"
+        },
+        {
+          "score": 1.016715168952942,
+          "doc_type": "publication",
+          "title": "مدلسازی دینامیکی عملیات تراشکاری بکمک مدلسازی جسم صلب",
+          "venue": "نوزدهمین همایش سالانه مهندسی مکانیک ایران",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1023220.html",
+          "parent_id": null,
+          "id": "prof_335849ce38af__pub_623ae6db205c"
+        }
+      ]
+    }
+  ]
+}

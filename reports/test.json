@@ -1,0 +1,1008 @@
+{
+  "route": "A",
+  "answer": "۵ مورد از مقالات احمد آفتابی ثانی (در صورت وجود لینک، در اولویت):\n1. Green’s functions of size-dependent Timoshenko beams: Gradient elasticity versus stress-driven nonlocal theories — International Journal of Solids and Structures (https://profdoc.um.ac.ir/paper-abstract-1102566.html)\n2. Solving coupled differential eigenvalue problems using the differential transformation method numerical example: Dynamic analysis of multi-span beams — Mechanics Research Communications (https://profdoc.um.ac.ir/paper-abstract-1102077.html)\n3. Free vibration analysis of Euler-Bernoulli beams modeled by spatial-fractional differential equation — Results in Engineering (https://profdoc.um.ac.ir/paper-abstract-1100657.html)\n4. Free vibration of cylindrical shells and panels with cutout via the differential transform method — Mechanics of Advanced Materials and Structures (https://profdoc.um.ac.ir/paper-abstract-1097365.html)\n5. Free vibration analysis of closed and open horizontal cylindrical shells utilizing coupled transfer function method and differential transform method — Mechanics of Advanced Materials and Structures (https://profdoc.um.ac.ir/paper-abstract-1099942.html)",
+  "data": {
+    "name": "احمد آفتابی ثانی",
+    "email": "aftabi@um.ac.ir",
+    "homepage": "http://prof.um.ac.ir/aftabi",
+    "top_publications": [
+      {
+        "title": "Green’s functions of size-dependent Timoshenko beams: Gradient elasticity versus stress-driven nonlocal theories",
+        "authors": [
+          "Noel Challamel",
+          "Ahmad Aftabi Sani"
+        ],
+        "journal": "International Journal of Solids and Structures",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102566.html"
+      },
+      {
+        "title": "Solving coupled differential eigenvalue problems using the differential transformation method numerical example: Dynamic analysis of multi-span beams",
+        "authors": [
+          "Amir Esmaeel Khosravi",
+          "Farzad Shahabian Moghadam",
+          "Ahmad Aftabi Sani"
+        ],
+        "journal": "Mechanics Research Communications",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102077.html"
+      },
+      {
+        "title": "Free vibration analysis of Euler-Bernoulli beams modeled by spatial-fractional differential equation",
+        "authors": [
+          "Azadeh Jafari",
+          "Ahmad Aftabi Sani"
+        ],
+        "journal": "Results in Engineering",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1100657.html"
+      },
+      {
+        "title": "Free vibration of cylindrical shells and panels with cutout via the differential transform method",
+        "authors": [
+          "Amir Esmaeel Khosravi",
+          "Farzad Shahabian Moghadam",
+          "Ahmad Aftabi Sani"
+        ],
+        "journal": "Mechanics of Advanced Materials and Structures",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1097365.html"
+      },
+      {
+        "title": "Free vibration analysis of closed and open horizontal cylindrical shells utilizing coupled transfer function method and differential transform method",
+        "authors": [
+          "MAHDI AMELI BASIRI",
+          "Mohammadreza Tavakkolizadeh",
+          "Ahmad Aftabi Sani"
+        ],
+        "journal": "Mechanics of Advanced Materials and Structures",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1099942.html"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": "homepage",
+      "fused_score": null,
+      "score": null,
+      "doc_type": null,
+      "title": "صفحه شخصی",
+      "venue": "احمد آفتابی ثانی",
+      "article_link": "http://prof.um.ac.ir/aftabi",
+      "parent_id": null,
+      "prof_id": null,
+      "pub_id": null,
+      "dense_rank": null,
+      "lex_rank": null
+    },
+    {
+      "id": "Green’s functions of size-dependent Timoshenko beams: Gradient elasticity versus stress-driven nonlocal theories",
+      "fused_score": null,
+      "score": null,
+      "doc_type": null,
+      "title": "Green’s functions of size-dependent Timoshenko beams: Gradient elasticity versus stress-driven nonlocal theories",
+      "venue": "International Journal of Solids and Structures",
+      "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102566.html",
+      "parent_id": null,
+      "prof_id": null,
+      "pub_id": null,
+      "dense_rank": null,
+      "lex_rank": null
+    },
+    {
+      "id": "Solving coupled differential eigenvalue problems using the differential transformation method numerical example: Dynamic analysis of multi-span beams",
+      "fused_score": null,
+      "score": null,
+      "doc_type": null,
+      "title": "Solving coupled differential eigenvalue problems using the differential transformation method numerical example: Dynamic analysis of multi-span beams",
+      "venue": "Mechanics Research Communications",
+      "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102077.html",
+      "parent_id": null,
+      "prof_id": null,
+      "pub_id": null,
+      "dense_rank": null,
+      "lex_rank": null
+    },
+    {
+      "id": "Free vibration analysis of Euler-Bernoulli beams modeled by spatial-fractional differential equation",
+      "fused_score": null,
+      "score": null,
+      "doc_type": null,
+      "title": "Free vibration analysis of Euler-Bernoulli beams modeled by spatial-fractional differential equation",
+      "venue": "Results in Engineering",
+      "article_link": "https://profdoc.um.ac.ir/paper-abstract-1100657.html",
+      "parent_id": null,
+      "prof_id": null,
+      "pub_id": null,
+      "dense_rank": null,
+      "lex_rank": null
+    },
+    {
+      "id": "Free vibration of cylindrical shells and panels with cutout via the differential transform method",
+      "fused_score": null,
+      "score": null,
+      "doc_type": null,
+      "title": "Free vibration of cylindrical shells and panels with cutout via the differential transform method",
+      "venue": "Mechanics of Advanced Materials and Structures",
+      "article_link": "https://profdoc.um.ac.ir/paper-abstract-1097365.html",
+      "parent_id": null,
+      "prof_id": null,
+      "pub_id": null,
+      "dense_rank": null,
+      "lex_rank": null
+    },
+    {
+      "id": "Free vibration analysis of closed and open horizontal cylindrical shells utilizing coupled transfer function method and differential transform method",
+      "fused_score": null,
+      "score": null,
+      "doc_type": null,
+      "title": "Free vibration analysis of closed and open horizontal cylindrical shells utilizing coupled transfer function method and differential transform method",
+      "venue": "Mechanics of Advanced Materials and Structures",
+      "article_link": "https://profdoc.um.ac.ir/paper-abstract-1099942.html",
+      "parent_id": null,
+      "prof_id": null,
+      "pub_id": null,
+      "dense_rank": null,
+      "lex_rank": null
+    }
+  },
+  {
+    "route": "A",
+    "answer": "۵ مورد از مقالات هادی صدوقی یزدی (در صورت وجود لینک، در اولویت):\n1. Robust scene aware multi-object tracking for surveillance videos — Neurocomputing (https://profdoc.um.ac.ir/paper-abstract-1102624.html)\n2. Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting — Emerging Markets Finance and Trade (https://profdoc.um.ac.ir/paper-abstract-1102395.html)\n3. CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm — Computers, Materials and Continua (https://profdoc.um.ac.ir/paper-abstract-1101433.html)\n4. Preserving data distribution in sampling and instance selection with Renyi’s divergence — Knowledge and Information Systems (https://profdoc.um.ac.ir/paper-abstract-1101330.html)\n5. Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter — Multimedia Tools and Applications (https://profdoc.um.ac.ir/paper-abstract-1100309.html)",
+    "data": {
+      "name": "هادی صدوقی یزدی",
+      "email": "sadoghi",
+      "homepage": "http://prof.um.ac.ir/h-sadoghi",
+      "top_publications": [
+        {
+          "title": "Robust scene aware multi-object tracking for surveillance videos",
+          "authors": [
+            "Fatemeh Jalali",
+            "Morteza Khademi",
+            "Abbas Ebrahimi Moghadam",
+            "Hadi Sadoghi Yazdi"
+          ],
+          "journal": "Neurocomputing",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102624.html"
+        },
+        {
+          "title": "Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting",
+          "authors": [
+            "Ali Mehrizi",
+            "Hadi Sadoghi Yazdi"
+          ],
+          "journal": "Emerging Markets Finance and Trade",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102395.html"
+        },
+        {
+          "title": "CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm",
+          "authors": [
+            "Balsam Abughirbn",
+            "Amir Hossein Taherinia",
+            "Hadi Sadoghi Yazdi",
+            "Ahad Harati"
+          ],
+          "journal": "Computers, Materials and Continua",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101433.html"
+        },
+        {
+          "title": "Preserving data distribution in sampling and instance selection with Renyi’s divergence",
+          "authors": [
+            "Hadi Sadoghi Yazdi",
+            "Soheila Ashkezari-Toussi",
+            "Abolfazl Ramezanzadeh Yazdi"
+          ],
+          "journal": "Knowledge and Information Systems",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101330.html"
+        },
+        {
+          "title": "Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter",
+          "authors": [
+            "Ali Mehrizi",
+            "Hadi Sadoghi Yazdi"
+          ],
+          "journal": "Multimedia Tools and Applications",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1100309.html"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "homepage",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "صفحه شخصی",
+        "venue": "هادی صدوقی یزدی",
+        "article_link": "http://prof.um.ac.ir/h-sadoghi",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      },
+      {
+        "id": "Robust scene aware multi-object tracking for surveillance videos",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Robust scene aware multi-object tracking for surveillance videos",
+        "venue": "Neurocomputing",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102624.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      },
+      {
+        "id": "Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting",
+        "venue": "Emerging Markets Finance and Trade",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102395.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      },
+      {
+        "id": "CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm",
+        "venue": "Computers, Materials and Continua",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101433.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      },
+      {
+        "id": "Preserving data distribution in sampling and instance selection with Renyi’s divergence",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Preserving data distribution in sampling and instance selection with Renyi’s divergence",
+        "venue": "Knowledge and Information Systems",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101330.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      },
+      {
+        "id": "Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter",
+        "venue": "Multimedia Tools and Applications",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1100309.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      }
+    ]
+  }
+
+{
+    "route": "B",
+    "answer": "<think>\nخب، من میخوام به سوال “ مقالات حوزه پردازش تصویر چیست؟” پاسخ دهم، اما باید از دادهها استفاده کنم. هmmm...\n\nمقدwest مقاله 1 همچنین مقاله 3 هست، در حال حاضر به فراگش نیاز دارند. خوشحال میشم که خونم. از بقیه ایها پس از احتمالاً استفاده نکرده. این مقاله 4 هم، رو میدانم در آن به حوزه زمایی پردازش تصویر مربوط داره. وFinally، مقاله 5 هم به سیستمهای تحلیل محتوایی مورد اثبات قرار داده.  \n \n\nآیا همه این مقالات حوزه پردازش تصویر هستند؟ ممکنه همچنین مقاله 3، که در بخش دuplicates شده است، به آن من pentagon پردازش تصویر مگluیت کنی.  \n \n\nاگر بخواهید اطلاعات بیشتر و دقیق تر داشتید، باید همه این مقالات را بررسی کنم. امروز در مورد احتمالاً آنچه کاربردهای مانند رسم شکل، استخراج نوایش و تحلیل خواص نان برگذاری میکنند، خورده باشم.\n \nممنون!  \n[1] [2] [3] [4] [5]\n</think>\n\n# حوزه پردازش تصویر\n\nپرسش: مقالات حوزه پردازش تصویر چیست؟\n\nمنابع:\n[1] بررسی کاربرد پردازش تصویر در ارزیابی ریز ساختار بستنی — فناوری های نوین غذایی (فناوری های جدید در صنعت غذایی) — https://profdoc.um.ac.ir/paper-abstract-1061116.html\n[2] کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا — پژوهشهای علوم و صنایع غذایی ایران — https://profdoc.um.ac.ir/paper-abstract-1039880.html\n[3] کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا — پژوهشهای علوم و صنایع غذایی ایران — https://profdoc.um.ac.ir/paper-abstract-1039880.html\n[4]Eye Detection in Color Images — چهارمین کنفرانس ماشین بینایی و پردازش تصویر ایران — https://profdoc.um.ac.ir/paper-abstract-359.html\n[5] مروری بر سیستمهای تحلیل محتوایی و معنایهی ویدیو از دیدگاه ساختار سلسله مراتب معنایی در تولید فیلم — ماشین بینایی و پردازش تصویر — https://profdoc.um.ac.ir/paper-abstract-1052830.html\n\nمنابع احتمالاً استفاده شده برای پاسخ مقالات حوزه پردازش تصویر:\n- مقالات 1, 4, 5 هستند.\n- مقالات 3 و 2 همچنین به عنوان مانند دuplicates 2 و 3، احتمالاً در نظر گرفته شده است.\n\nاگر بخواهید دقیقتر کافی اطلاعات به دست آید، لطفاً بررسی کنید همه مقالات جذاب است، اما با توجه به مراحل تولید نوایش و رسم شکل در حوزه پردازش تصویر، ممکنه بسته قابل اتخاذند.\n \n[1] [2] [3] [4] [5]\n\n[1] کاربرد پردازش تصویر در ارزیابی ریز ساختار بستنی\n[2] کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا\n[3] مقاله همچنین بسیار مشابه، از جمله هرک了一遍\n[4] مقالات حوزه پردازش تصویر در ارزیابی ریز ساختار بستنی\n[5] مروری بر سیستمهای تحلیل محتوایی و معنایهی ویدیو",
+    "data": {
+      "query": "مقالات حوزه پردازش تصویر چیست؟"
+    },
+    "sources": [
+      {
+        "id": "prof_a5f02bdeedf3__pub_56d6a6524415",
+        "fused_score": 0.027972027972027972,
+        "score": null,
+        "doc_type": "publication",
+        "title": "بررسی کاربرد پردازش تصویر در ارزیابی ریز ساختار بستنی",
+        "venue": "فناوری های نوین غذایی (فناوری های جدید در صنعت غذا)",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1061116.html",
+        "parent_id": null,
+        "prof_id": "a5f02bdeedf3",
+        "pub_id": "56d6a6524415",
+        "dense_rank": 6,
+        "lex_rank": 18
+      },
+      {
+        "id": "prof_fdd2161a6327__pub_f33f83eb9033",
+        "fused_score": 0.027119252873563218,
+        "score": null,
+        "doc_type": "publication",
+        "title": "کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا",
+        "venue": "پژوهشهای علوم و صنایع غذایی ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039880.html",
+        "parent_id": null,
+        "prof_id": "fdd2161a6327",
+        "pub_id": "f33f83eb9033",
+        "dense_rank": 4,
+        "lex_rank": 27
+      },
+      {
+        "id": "prof_ec1f84db74ef__pub_f33f83eb9033",
+        "fused_score": 0.026289682539682536,
+        "score": null,
+        "doc_type": "publication",
+        "title": "کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا",
+        "venue": "پژوهشهای علوم و صنایع غذایی ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039880.html",
+        "parent_id": null,
+        "prof_id": "ec1f84db74ef",
+        "pub_id": "f33f83eb9033",
+        "dense_rank": 3,
+        "lex_rank": 36
+      },
+      {
+        "id": "prof_081a923eeeaa__pub_949a4bb08ed1",
+        "fused_score": 0.02472929470295581,
+        "score": null,
+        "doc_type": "publication",
+        "title": "Eye Detection in Color Images",
+        "venue": "چهارمین کنفرانس ماشین بینایی و پردازش تصویر ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-359.html",
+        "parent_id": null,
+        "prof_id": "081a923eeeaa",
+        "pub_id": "949a4bb08ed1",
+        "dense_rank": 42,
+        "lex_rank": 7
+      },
+      {
+        "id": "prof_081a923eeeaa__pub_ecd9adcbcbfa",
+        "fused_score": 0.023481973434535106,
+        "score": null,
+        "doc_type": "publication",
+        "title": "مروری بر سیستم های تحلیل محتوایی و معنایی ویدیو از دیدگاه ساختار سلسله مراتب معنایی در تولید فیلم",
+        "venue": "ماشین بینایی و پردازش تصویر",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1052830.html",
+        "parent_id": null,
+        "prof_id": "081a923eeeaa",
+        "pub_id": "ecd9adcbcbfa",
+        "dense_rank": 2,
+        "lex_rank": 76
+      }
+    ]
+  }
+
+  {
+    "route": "A",
+    "answer": "۵ مورد از مقالات هادی صدوقی یزدی (در صورت وجود لینک، در اولویت):\n1. Robust scene aware multi-object tracking for surveillance videos — Neurocomputing (https://profdoc.um.ac.ir/paper-abstract-1102624.html)\n2. Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting — Emerging Markets Finance and Trade (https://profdoc.um.ac.ir/paper-abstract-1102395.html)\n3. CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm — Computers, Materials and Continua (https://profdoc.um.ac.ir/paper-abstract-1101433.html)\n4. Preserving data distribution in sampling and instance selection with Renyi’s divergence — Knowledge and Information Systems (https://profdoc.um.ac.ir/paper-abstract-1101330.html)\n5. Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter — Multimedia Tools and Applications (https://profdoc.um.ac.ir/paper-abstract-1100309.html)",
+    "data": {
+      "name": "هادی صدوقی یزدی",
+      "email": "sadoghi",
+      "homepage": "http://prof.um.ac.ir/h-sadoghi",
+      "top_publications": [
+        {
+          "title": "Robust scene aware multi-object tracking for surveillance videos",
+          "authors": [
+            "Fatemeh Jalali",
+            "Morteza Khademi",
+            "Abbas Ebrahimi Moghadam",
+            "Hadi Sadoghi Yazdi"
+          ],
+          "journal": "Neurocomputing",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102624.html"
+        },
+        {
+          "title": "Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting",
+          "authors": [
+            "Ali Mehrizi",
+            "Hadi Sadoghi Yazdi"
+          ],
+          "journal": "Emerging Markets Finance and Trade",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102395.html"
+        },
+        {
+          "title": "CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm",
+          "authors": [
+            "Balsam Abughirbn",
+            "Amir Hossein Taherinia",
+            "Hadi Sadoghi Yazdi",
+            "Ahad Harati"
+          ],
+          "journal": "Computers, Materials and Continua",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101433.html"
+        },
+        {
+          "title": "Preserving data distribution in sampling and instance selection with Renyi’s divergence",
+          "authors": [
+            "Hadi Sadoghi Yazdi",
+            "Soheila Ashkezari-Toussi",
+            "Abolfazl Ramezanzadeh Yazdi"
+          ],
+          "journal": "Knowledge and Information Systems",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101330.html"
+        },
+        {
+          "title": "Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter",
+          "authors": [
+            "Ali Mehrizi",
+            "Hadi Sadoghi Yazdi"
+          ],
+          "journal": "Multimedia Tools and Applications",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1100309.html"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "homepage",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "صفحه شخصی",
+        "venue": "هادی صدوقی یزدی",
+        "article_link": "http://prof.um.ac.ir/h-sadoghi",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      },
+      {
+        "id": "Robust scene aware multi-object tracking for surveillance videos",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Robust scene aware multi-object tracking for surveillance videos",
+        "venue": "Neurocomputing",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102624.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      },
+      {
+        "id": "Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting",
+        "venue": "Emerging Markets Finance and Trade",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102395.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      },
+      {
+        "id": "CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm",
+        "venue": "Computers, Materials and Continua",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101433.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      },
+      {
+        "id": "Preserving data distribution in sampling and instance selection with Renyi’s divergence",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Preserving data distribution in sampling and instance selection with Renyi’s divergence",
+        "venue": "Knowledge and Information Systems",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101330.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      },
+      {
+        "id": "Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter",
+        "venue": "Multimedia Tools and Applications",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1100309.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null
+      }
+    ]
+  }
+
+  {
+    "route": "B",
+    "answer": "<think>\nAlright, let's tackle this question: \"What does a paper in the field of processing images cover?\" I need to use the provided references to answer this.\n\nFirst, looking at reference [1], it seems to discuss the application of image processing in evaluating structural integrity and innovative technologies in fashion. That gives me an idea about how image processing is used in visual assessment and new materials.\n\nReference [2] talks about the role of image processing in studying the effects of parts on enhancing nanofacial properties, particularly focusing on something called \"soviata.\" I think \"soVIATA\" might be a typo or another term; maybe it's \"soVT,\" which refers to soil in Russian, but I'm not sure. It seems relevant because it links image processing with physical properties.\n\nReference [3] is the same as [2], so probably a duplicate. It covers similar topics about using image processing in studying facial parts and nanofacial properties.\n\nReferences [4] and [5] discuss eye detection in color images from the Iran-Irrationality Conferences on Machine Vision and Processing, which might be more about specific applications within that field.\n\nPutting it all together, these papers explore various applications of image processing, ranging from structural evaluation to physical properties. They seem to focus on how images help assess structures and analyze materials' behavior through different techniques.\n</think>\n\n [#]\nimage processing in visual assessment of structures and material properties; application in fashion and nanofacial studies;\n]\n\nsource: [1] image processing in fashion and innovative materials; [2] studying facial effects on nanofacial properties; [4] eye detection in color images.",
+    "data": {
+      "query": "مقالات حوزه پردازش تصویر چیست؟"
+    },
+    "sources": [
+      {
+        "id": "prof_a5f02bdeedf3__pub_56d6a6524415",
+        "fused_score": 0.027972027972027972,
+        "score": null,
+        "doc_type": "publication",
+        "title": "بررسی کاربرد پردازش تصویر در ارزیابی ریز ساختار بستنی",
+        "venue": "فناوری های نوین غذایی (فناوری های جدید در صنعت غذا)",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1061116.html",
+        "parent_id": null,
+        "prof_id": "a5f02bdeedf3",
+        "pub_id": "56d6a6524415",
+        "dense_rank": 6,
+        "lex_rank": 18
+      },
+      {
+        "id": "prof_fdd2161a6327__pub_f33f83eb9033",
+        "fused_score": 0.027119252873563218,
+        "score": null,
+        "doc_type": "publication",
+        "title": "کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا",
+        "venue": "پژوهشهای علوم و صنایع غذایی ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039880.html",
+        "parent_id": null,
+        "prof_id": "fdd2161a6327",
+        "pub_id": "f33f83eb9033",
+        "dense_rank": 4,
+        "lex_rank": 27
+      },
+      {
+        "id": "prof_ec1f84db74ef__pub_f33f83eb9033",
+        "fused_score": 0.026289682539682536,
+        "score": null,
+        "doc_type": "publication",
+        "title": "کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا",
+        "venue": "پژوهشهای علوم و صنایع غذایی ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039880.html",
+        "parent_id": null,
+        "prof_id": "ec1f84db74ef",
+        "pub_id": "f33f83eb9033",
+        "dense_rank": 3,
+        "lex_rank": 36
+      },
+      {
+        "id": "prof_081a923eeeaa__pub_949a4bb08ed1",
+        "fused_score": 0.02472929470295581,
+        "score": null,
+        "doc_type": "publication",
+        "title": "Eye Detection in Color Images",
+        "venue": "چهارمین کنفرانس ماشین بینایی و پردازش تصویر ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-359.html",
+        "parent_id": null,
+        "prof_id": "081a923eeeaa",
+        "pub_id": "949a4bb08ed1",
+        "dense_rank": 42,
+        "lex_rank": 7
+      },
+      {
+        "id": "prof_081a923eeeaa__pub_ecd9adcbcbfa",
+        "fused_score": 0.023481973434535106,
+        "score": null,
+        "doc_type": "publication",
+        "title": "مروری بر سیستم های تحلیل محتوایی و معنایی ویدیو از دیدگاه ساختار سلسله مراتب معنایی در تولید فیلم",
+        "venue": "ماشین بینایی و پردازش تصویر",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1052830.html",
+        "parent_id": null,
+        "prof_id": "081a923eeeaa",
+        "pub_id": "ecd9adcbcbfa",
+        "dense_rank": 2,
+        "lex_rank": 76
+      }
+    ]
+  }
+
+  {
+    "route": "A",
+    "answer": "۵ مورد از مقالات هادی صدوقی یزدی (در صورت وجود لینک، در اولویت):\n1. Robust scene aware multi-object tracking for surveillance videos — Neurocomputing (https://profdoc.um.ac.ir/paper-abstract-1102624.html)\n2. Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting — Emerging Markets Finance and Trade (https://profdoc.um.ac.ir/paper-abstract-1102395.html)\n3. CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm — Computers, Materials and Continua (https://profdoc.um.ac.ir/paper-abstract-1101433.html)\n4. Preserving data distribution in sampling and instance selection with Renyi’s divergence — Knowledge and Information Systems (https://profdoc.um.ac.ir/paper-abstract-1101330.html)\n5. Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter — Multimedia Tools and Applications (https://profdoc.um.ac.ir/paper-abstract-1100309.html)",
+    "data": {
+      "name": "هادی صدوقی یزدی",
+      "email": "sadoghi",
+      "homepage": "http://prof.um.ac.ir/h-sadoghi",
+      "top_publications": [
+        {
+          "title": "Robust scene aware multi-object tracking for surveillance videos",
+          "authors": [
+            "Fatemeh Jalali",
+            "Morteza Khademi",
+            "Abbas Ebrahimi Moghadam",
+            "Hadi Sadoghi Yazdi"
+          ],
+          "journal": "Neurocomputing",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102624.html"
+        },
+        {
+          "title": "Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting",
+          "authors": [
+            "Ali Mehrizi",
+            "Hadi Sadoghi Yazdi"
+          ],
+          "journal": "Emerging Markets Finance and Trade",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102395.html"
+        },
+        {
+          "title": "CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm",
+          "authors": [
+            "Balsam Abughirbn",
+            "Amir Hossein Taherinia",
+            "Hadi Sadoghi Yazdi",
+            "Ahad Harati"
+          ],
+          "journal": "Computers, Materials and Continua",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101433.html"
+        },
+        {
+          "title": "Preserving data distribution in sampling and instance selection with Renyi’s divergence",
+          "authors": [
+            "Hadi Sadoghi Yazdi",
+            "Soheila Ashkezari-Toussi",
+            "Abolfazl Ramezanzadeh Yazdi"
+          ],
+          "journal": "Knowledge and Information Systems",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101330.html"
+        },
+        {
+          "title": "Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter",
+          "authors": [
+            "Ali Mehrizi",
+            "Hadi Sadoghi Yazdi"
+          ],
+          "journal": "Multimedia Tools and Applications",
+          "article_link": "https://profdoc.um.ac.ir/paper-abstract-1100309.html"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "homepage",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "صفحه شخصی",
+        "venue": "هادی صدوقی یزدی",
+        "article_link": "http://prof.um.ac.ir/h-sadoghi",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null,
+        "text": null
+      },
+      {
+        "id": "Robust scene aware multi-object tracking for surveillance videos",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Robust scene aware multi-object tracking for surveillance videos",
+        "venue": "Neurocomputing",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102624.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null,
+        "text": null
+      },
+      {
+        "id": "Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Distributed Learning Framework for Multi-timeframe Data Modelling in Financial Multi-step Forecasting",
+        "venue": "Emerging Markets Finance and Trade",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1102395.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null,
+        "text": null
+      },
+      {
+        "id": "CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "CSRWA: Covert and Severe Attacks Resistant Watermarking Algorithm",
+        "venue": "Computers, Materials and Continua",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101433.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null,
+        "text": null
+      },
+      {
+        "id": "Preserving data distribution in sampling and instance selection with Renyi’s divergence",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Preserving data distribution in sampling and instance selection with Renyi’s divergence",
+        "venue": "Knowledge and Information Systems",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1101330.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null,
+        "text": null
+      },
+      {
+        "id": "Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter",
+        "fused_score": null,
+        "score": null,
+        "doc_type": null,
+        "title": "Enhancing multi-target tracking stability using knowledge graph integration within the Gaussian Mixture Probability Hypothesis Density Filter",
+        "venue": "Multimedia Tools and Applications",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1100309.html",
+        "parent_id": null,
+        "prof_id": null,
+        "pub_id": null,
+        "dense_rank": null,
+        "lex_rank": null,
+        "text": null
+      }
+    ]
+  }
+
+  {
+    "route": "B",
+    "answer": "<think>\nAlright, so I need to figure out what the article about image processing in the field of photogrammetry is about. Let me start by looking at the user's question: \"مقالات حوزه پردازش تصویر چیست؟\" which translates to \"What are the articles related to image processing?\" \n\nNow, I have a list of five references provided as my sources. Each reference is either a PDF or an abstract from different sources. The user wants me to extract information about these articles and present it in a structured way.\n\nFirst, I'll go through each reference one by one to understand what they're about. \n\n1. **Reference 1**: It's a paper discussing the application of image processing in evaluating structural integrity in buildings using innovative technologies. The link is https://profdoc.um.ac.ir/paper-abstract-1061116.html.\n\n2. **Reference 2**: This one seems to focus on the application of image processing in studying the effects of components, enhancing their properties, and assessing their material characteristics from a safety perspective. The link is https://profdoc.um.ac.ir/paper-abstract-1039880.html.\n\n3. **Reference 3** appears to be the same as Reference 2 but with a different title or perhaps a duplicate entry. It's about the application of image processing in studying the effects of components, enhancing their properties, and assessing their material characteristics from a safety perspective. The link is again https://profdoc.um.ac.ir/paper-abstract-1039880.html.\n\n4. **Reference 4**: This reference is a paper from the 4th Conference on Machine Vision and Image Processing in Iran, discussing eye detection in color images. The link is https://profdoc.um.ac.ir/paper-abstract-359.html.\n\n5. **Reference 5**: This one looks like a review or overview of systems that analyze content and meanings of videos from the perspective of structure levels. The link is https://profdoc.um.ac.ir/paper-abstract-1052830.html.\n\nNow, I need to extract key points from each reference. Since the user mentioned using only the provided references, I'll focus on what's in these sources.\n\nStarting with **Reference 1**: It talks about image processing in structural integrity evaluation. So, this is related to how images are used to assess structural aspects of buildings or structures.\n\n**Reference 2 and 3**: Both discuss the application of image processing in studying components, enhancing their properties, and assessing material characteristics from a safety perspective. This seems more focused on the practical applications and benefits of using images for these purposes.\n\n**Reference 4**: This is about eye detection in color images, which is a specific application within image processing. It's more technical, dealing with how images can detect features related to vision systems.\n\n**Reference 5**: This is an overview paper from a conference on machine vision and image processing. It likely discusses various systems or technologies used in analyzing content and meanings of videos at different levels (like pixel, block, etc.).\n\nPutting this all together, the articles are about using images for structural evaluation, studying components for safety purposes, eye detection in color images, and broader image processing systems.\n\nI need to present these findings clearly. The user wants a concise answer, so I'll summarize each article's main focus without going into too much detail. Also, since some references are duplicates or provide the same information, I should ensure that only the unique ones are included.\n\nFinally, I'll structure the response in a way that first lists all the articles and then explains their focuses using the provided references. This will make it clear and organized for the user.\n</think>\n\nThe articles related to image processing cover various applications within the field:\n\n1. **Image Processing in Structural Integrity Evaluation**: Discusses how images are used to assess structural integrity in buildings or structures, focusing on innovative technologies.\n\n2. **Application of Image Processing in Component Study**: Explores the use of images for studying components, enhancing their properties, and assessing material characteristics from a safety perspective.\n\n3. **Eye Detection in Color Images**: Focuses on detecting features related to vision systems within color images, a specific application within image processing.\n\n4. **Machine Vision and Image Processing Systems**: An overview paper discussing various systems used in analyzing content and meanings of videos at different levels (pixel, block, etc.).\n\nThese articles highlight diverse applications of image processing across structural evaluation, safety assessments, component study, and broader image analysis systems.",
+    "data": {
+      "query": "مقالات حوزه پردازش تصویر چیست؟"
+    },
+    "sources": [
+      {
+        "id": "prof_a5f02bdeedf3__pub_56d6a6524415",
+        "fused_score": 0.027972027972027972,
+        "score": null,
+        "doc_type": "publication",
+        "title": "بررسی کاربرد پردازش تصویر در ارزیابی ریز ساختار بستنی",
+        "venue": "فناوری های نوین غذایی (فناوری های جدید در صنعت غذا)",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1061116.html",
+        "parent_id": null,
+        "prof_id": "a5f02bdeedf3",
+        "pub_id": "56d6a6524415",
+        "dense_rank": 6,
+        "lex_rank": 18,
+        "text": null
+      },
+      {
+        "id": "prof_fdd2161a6327__pub_f33f83eb9033",
+        "fused_score": 0.027119252873563218,
+        "score": null,
+        "doc_type": "publication",
+        "title": "کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا",
+        "venue": "پژوهشهای علوم و صنایع غذایی ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039880.html",
+        "parent_id": null,
+        "prof_id": "fdd2161a6327",
+        "pub_id": "f33f83eb9033",
+        "dense_rank": 4,
+        "lex_rank": 27,
+        "text": null
+      },
+      {
+        "id": "prof_ec1f84db74ef__pub_f33f83eb9033",
+        "fused_score": 0.026289682539682536,
+        "score": null,
+        "doc_type": "publication",
+        "title": "کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا",
+        "venue": "پژوهشهای علوم و صنایع غذایی ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039880.html",
+        "parent_id": null,
+        "prof_id": "ec1f84db74ef",
+        "pub_id": "f33f83eb9033",
+        "dense_rank": 3,
+        "lex_rank": 36,
+        "text": null
+      },
+      {
+        "id": "prof_081a923eeeaa__pub_949a4bb08ed1",
+        "fused_score": 0.02472929470295581,
+        "score": null,
+        "doc_type": "publication",
+        "title": "Eye Detection in Color Images",
+        "venue": "چهارمین کنفرانس ماشین بینایی و پردازش تصویر ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-359.html",
+        "parent_id": null,
+        "prof_id": "081a923eeeaa",
+        "pub_id": "949a4bb08ed1",
+        "dense_rank": 42,
+        "lex_rank": 7,
+        "text": null
+      },
+      {
+        "id": "prof_081a923eeeaa__pub_ecd9adcbcbfa",
+        "fused_score": 0.023481973434535106,
+        "score": null,
+        "doc_type": "publication",
+        "title": "مروری بر سیستم های تحلیل محتوایی و معنایی ویدیو از دیدگاه ساختار سلسله مراتب معنایی در تولید فیلم",
+        "venue": "ماشین بینایی و پردازش تصویر",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1052830.html",
+        "parent_id": null,
+        "prof_id": "081a923eeeaa",
+        "pub_id": "ecd9adcbcbfa",
+        "dense_rank": 2,
+        "lex_rank": 76,
+        "text": null
+      }
+    ]
+  }
+
+  {
+    "route": "B",
+    "answer": "<think>\nAlright, let me try to figure out what medical imaging research papers look like. I'm not very familiar with all the details, but I'll do my best based on the references provided.\n\nFirst, looking at the references: \n\n1. A review on innovative uses of photography in fashion.\n2. A paper discussing eye detection in color images.\n3. Another paper about eye detection in color images.\n4. A conference proceeding from Iran.\n5. A survey on text-to-image models.\n\nHmm, these all seem related to image processing and computer vision, which are important areas in medical imaging. But I'm not sure how directly they contribute to the content of medical imaging research papers. Maybe some of them discuss specific techniques or methodologies used in medical imaging research?\n\nI think the key point is that medical imaging research often involves developing new technologies for better diagnosis, treatment planning, and patient monitoring. References 2 and 3 both talk about eye detection in color images, which could be a part of image processing techniques used in medical imaging.\n\nBut I'm not sure how to structure this into a coherent answer without adding extra information beyond what's provided. Maybe I should focus on the main points from each reference and see if they can be connected back to the overall content of medical imaging research papers.\n\nI also need to make sure that my response is in Persian and concise, as per the user's instructions. Plus, I shouldn't add any extra information beyond what's provided in the references.\n\nOverall, I think I should explain how these references contribute to understanding medical imaging research papers by discussing their focus areas like image processing techniques or specific methodologies used.\n</think>\n\nاین سوال، میتوانید بگویید که آنها به شرح زیر هستند:\n\n1. **آیا مقالات حوزه پردازش تصویر در این سوال به شرح زیر هستند؟**  \n   - مقالات حوزه پردازش تصویر در این سوال، میتوانید بگویید که آنها به شرح زیر هستند:  \n\n2. **آیا مقالات حوزه پردازش تصویر در این سوال به شرح زیر هستند؟**  \n   - مقالات حوزه پردازش تصویر در این سوال، میتوانید بگویید که آنها به شرح زیر هستند:  \n\n3. **آیا مقالات حوزه پردازش تصویر در این سوال به شرح زیر هستند؟**  \n   - مقالات حوزه پردازش تصویر در این سوال، میتوانید بگویید که آنها به شرح زیر هستند:  \n\n4. **آیا مقالات حوزه پردازش تصویر در این سوال به شرح زیر هستند؟**  \n   - مقالات حوزه پردازش تصویر در این سوال، میتوانید بگویید که آنها به شرح زیر هستند:  \n\n5. **آیا مقالات حوزه پردازش تصویر در این سوال به شرح زیر هستند؟**  \n   - مقالات حوزه پردازش تصویر در این سوال، میتوانید بگویید که آنها به شرح زیر هستند:  \n\n6. **آیا مقالات حوزه پردازش تصویر در این سوال به شرح زیر هستند؟**  \n   - مقالات حوزه پردازش تصویر در این سوال، میتوانید بگویید که آنها به شرح زیر هستند:  \n\n7. **آیا مقالات حوزه پردازش تصویر در این سوال به شرح زیر هستند؟**  \n   - مقالات حوزه پردازش تصویر در این سوال، میتوانید بگویید که آنها به شرح زیر هستند:  \n\n8. **آیا مقالات حوزه پردازش تصویر در این سوال به شرح زیر هستند؟**  \n   - مقالات حوزه پردازش تصویر در این سوال، میتوانید بگویید که آنها به شرح زیر هستند:  \n\n9. **آیا مقالات حوزه پردازش تصویر در این سوال به شرح زیر هستند؟**  \n   - مقالات حوزه پردازش تصویر در این سوال، میتوانید بگویید که آنها به شرح زیر هستند:  \n\n10. **آیا مقالات حوزه پردازش تصویر در این سوال به شرح زیر هستند؟**  \n    - مقالات حوزه پردازش تصویر در این سوال، میتوانید بگویید که آنها به شرح زیر هستند:  \n\nاگر این چیزی نیاز دارید، خوشحالم کنم کمکتون کنم!",
+    "data": {
+      "query": "مقالات حوزه پردازش تصویر چیست؟"
+    },
+    "sources": [
+      {
+        "id": "prof_a5f02bdeedf3__pub_56d6a6524415",
+        "fused_score": 0.027972027972027972,
+        "score": null,
+        "doc_type": "publication",
+        "title": "بررسی کاربرد پردازش تصویر در ارزیابی ریز ساختار بستنی",
+        "venue": "فناوری های نوین غذایی (فناوری های جدید در صنعت غذا)",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1061116.html",
+        "parent_id": null,
+        "prof_id": "a5f02bdeedf3",
+        "pub_id": "56d6a6524415",
+        "dense_rank": 6,
+        "lex_rank": 18,
+        "text": null
+      },
+      {
+        "id": "prof_fdd2161a6327__pub_f33f83eb9033",
+        "fused_score": 0.027119252873563218,
+        "score": null,
+        "doc_type": "publication",
+        "title": "کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا",
+        "venue": "پژوهشهای علوم و صنایع غذایی ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039880.html",
+        "parent_id": null,
+        "prof_id": "fdd2161a6327",
+        "pub_id": "f33f83eb9033",
+        "dense_rank": 4,
+        "lex_rank": 27,
+        "text": null
+      },
+      {
+        "id": "prof_ec1f84db74ef__pub_f33f83eb9033",
+        "fused_score": 0.026289682539682536,
+        "score": null,
+        "doc_type": "publication",
+        "title": "کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا",
+        "venue": "پژوهشهای علوم و صنایع غذایی ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039880.html",
+        "parent_id": null,
+        "prof_id": "ec1f84db74ef",
+        "pub_id": "f33f83eb9033",
+        "dense_rank": 3,
+        "lex_rank": 36,
+        "text": null
+      },
+      {
+        "id": "prof_081a923eeeaa__pub_949a4bb08ed1",
+        "fused_score": 0.02472929470295581,
+        "score": null,
+        "doc_type": "publication",
+        "title": "Eye Detection in Color Images",
+        "venue": "چهارمین کنفرانس ماشین بینایی و پردازش تصویر ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-359.html",
+        "parent_id": null,
+        "prof_id": "081a923eeeaa",
+        "pub_id": "949a4bb08ed1",
+        "dense_rank": 42,
+        "lex_rank": 7,
+        "text": null
+      },
+      {
+        "id": "prof_081a923eeeaa__pub_ecd9adcbcbfa",
+        "fused_score": 0.023481973434535106,
+        "score": null,
+        "doc_type": "publication",
+        "title": "مروری بر سیستم های تحلیل محتوایی و معنایی ویدیو از دیدگاه ساختار سلسله مراتب معنایی در تولید فیلم",
+        "venue": "ماشین بینایی و پردازش تصویر",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1052830.html",
+        "parent_id": null,
+        "prof_id": "081a923eeeaa",
+        "pub_id": "ecd9adcbcbfa",
+        "dense_rank": 2,
+        "lex_rank": 76,
+        "text": null
+      }
+    ]
+  }
+
+  {
+    "route": "B",
+    "answer": "<think>\nAlright, let me try to figure out what the user is asking for here. They provided a query about what a journal article on image processing would contain. The question is pretty straightforward: \"مقالات حوزه پردازش تصویر چیست؟\" which translates to \"What are image processing journal articles?\" \n\nLooking at their list of references, I see that the first three items are actually the same paper. Both mention eye detection in color images and are linked to a conference paper from Iran. The fourth reference is a conference proceeding with a different title but the same content. The fifth reference seems to be about video content analysis systems.\n\nSo, the user wants an answer based on these references. They also provided specific instructions for how to structure their response: using only the existing references, avoiding markdown formatting, and ensuring each point is clearly marked with [reference number]. \n\nI need to make sure I include all relevant points from the sources without adding anything extra. The key here is to accurately summarize what image processing journal articles typically cover based on these references. Since multiple entries are about eye detection in color images, that's a significant part of the content.\n\nI should also check if there's any missing information or if any references need clarification. It seems like the main focus is on techniques and applications in image processing as seen through these sources. \n\nFinally, I'll structure my response to be concise, using each reference appropriately, and ensure it's entirely in Persian without any markdown formatting.\n</think>\n\nمقالات حوزه پردازش تصویر در این سایت، به عنوان مقالات نویسندگان، محتوا را بررسی کنترل داده اند. این مقالات معمولاً مربوط به تحلیل و استخراج信息 از تصاویر، مطالعات در حوزههای مختلفی مثل شناختی غذایی، فناوری های جدید، سیستمهای تحلیل محتوایی و etc. به عنوان مثال، مقالات بررسی کاربرد پردازش تصویر در ارزیابی ریز ساختار بستنی یا در طراحی و استخراج نانهای غنی شده با سویا. \n\nدر این سایت، مقالات به عنوان مثال، مربوط به:\n1. کاربرد پردازش تصویر در مطالعات تاثیر اجزاء ژل برخورد با خصوصیات نان بربری غنی شده با سویا.\n2. مروری بر سیستمهای تحلیل محتوایی و معنایی ویدیو از دیدگاه ساختار سلسله مراتب معنایی در تولید فیلم.\n\nاین مقالات نشان میدهد که پردازش تصویر به عنوان یک روش مهم در ارزیابی و استخراج دادگاهها و شیوههای نان بربری غنی شده با سویا، نقش مهمی در حوزههای مختلفی دارد.",
+    "data": {
+      "query": "مقالات حوزه پردازش تصویر چیست؟"
+    },
+    "sources": [
+      {
+        "id": "prof_a5f02bdeedf3__pub_56d6a6524415",
+        "fused_score": 0.027972027972027972,
+        "score": null,
+        "doc_type": "publication",
+        "title": "بررسی کاربرد پردازش تصویر در ارزیابی ریز ساختار بستنی",
+        "venue": "فناوری های نوین غذایی (فناوری های جدید در صنعت غذا)",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1061116.html",
+        "parent_id": null,
+        "prof_id": "a5f02bdeedf3",
+        "pub_id": "56d6a6524415",
+        "dense_rank": 6,
+        "lex_rank": 18,
+        "text": null
+      },
+      {
+        "id": "prof_fdd2161a6327__pub_f33f83eb9033",
+        "fused_score": 0.027119252873563218,
+        "score": null,
+        "doc_type": "publication",
+        "title": "کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا",
+        "venue": "پژوهشهای علوم و صنایع غذایی ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039880.html",
+        "parent_id": null,
+        "prof_id": "fdd2161a6327",
+        "pub_id": "f33f83eb9033",
+        "dense_rank": 4,
+        "lex_rank": 27,
+        "text": null
+      },
+      {
+        "id": "prof_ec1f84db74ef__pub_f33f83eb9033",
+        "fused_score": 0.026289682539682536,
+        "score": null,
+        "doc_type": "publication",
+        "title": "کاربرد پردازش تصویر در مطالعه تاثیر اجزاء ژل بهبوددهنده بر خصوصیات نان بربری غنی شده با سویا",
+        "venue": "پژوهشهای علوم و صنایع غذایی ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1039880.html",
+        "parent_id": null,
+        "prof_id": "ec1f84db74ef",
+        "pub_id": "f33f83eb9033",
+        "dense_rank": 3,
+        "lex_rank": 36,
+        "text": null
+      },
+      {
+        "id": "prof_081a923eeeaa__pub_949a4bb08ed1",
+        "fused_score": 0.02472929470295581,
+        "score": null,
+        "doc_type": "publication",
+        "title": "Eye Detection in Color Images",
+        "venue": "چهارمین کنفرانس ماشین بینایی و پردازش تصویر ایران",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-359.html",
+        "parent_id": null,
+        "prof_id": "081a923eeeaa",
+        "pub_id": "949a4bb08ed1",
+        "dense_rank": 42,
+        "lex_rank": 7,
+        "text": null
+      },
+      {
+        "id": "prof_081a923eeeaa__pub_ecd9adcbcbfa",
+        "fused_score": 0.023481973434535106,
+        "score": null,
+        "doc_type": "publication",
+        "title": "مروری بر سیستم های تحلیل محتوایی و معنایی ویدیو از دیدگاه ساختار سلسله مراتب معنایی در تولید فیلم",
+        "venue": "ماشین بینایی و پردازش تصویر",
+        "article_link": "https://profdoc.um.ac.ir/paper-abstract-1052830.html",
+        "parent_id": null,
+        "prof_id": "081a923eeeaa",
+        "pub_id": "ecd9adcbcbfa",
+        "dense_rank": 2,
+        "lex_rank": 76,
+        "text": null
+      }
+    ]
+  }
